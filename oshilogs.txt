@@ -12,7 +12,1204 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Geila =====
-[1]Geila       |08:46:09 | 24-10-2026| SKIP: cookie kosong.
+[1]Geila       |09:31:57 | 25-10-2026| login OK @geilachandrika | score=10 rank=53731
+[1]Geila       |09:31:57 | 25-10-2026| serverTime=2026-10-25T09:31:57.000Z local=2026-10-25T09:31:57.896Z
+--> [1]Geila menjalankan: Claim Daily
+[1]Geila       |09:31:59 | 25-10-2026| daily: OK +10 poin score=20
+--> [1]Geila menjalankan: Auto All Tasks (1 pending)
+[1]Geila       |09:32:01 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211423827431117 | proof=https://x.com/geilachandrika/status/2114288544868899011
+[1]Geila       |09:32:01 | 25-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Geila       |09:32:02 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114238274311176 | proof=https://x.com/geilachandrika/status/2114288431091630040
+--> [1]Geila menjalankan: Watch Anime
+[1]Geila       |09:32:03 | 25-10-2026| watch: 22 video belum completed: amato-trailer,kagura-trailer,kagura-trailer-2,oshi-ep1,amato-season-1-trailer,oshi-studio-product-film,smart-pocket-official-trailer,smart-pocket-card-showcase...
+[1]Geila       |09:32:03 | 25-10-2026| watch [1/22] farming amato-trailer...
+[1]Geila       |09:32:05 | 25-10-2026| watch amato-trailer: 0% (0.00/50.00s)
+[1]Geila       |09:32:11 | 25-10-2026| watch amato-trailer: 10% (5.26/50.00s)
+[1]Geila       |09:32:17 | 25-10-2026| watch amato-trailer: 21% (10.78/50.00s)
+[1]Geila       |09:32:23 | 25-10-2026| watch amato-trailer: 32% (16.27/50.00s)
+[1]Geila       |09:32:30 | 25-10-2026| watch amato-trailer: 43% (21.75/50.00s)
+[1]Geila       |09:32:37 | 25-10-2026| watch amato-trailer: 56% (28.10/50.00s)
+[1]Geila       |09:32:43 | 25-10-2026| watch amato-trailer: 67% (33.76/50.00s)
+[1]Geila       |09:32:49 | 25-10-2026| watch amato-trailer: 78% (39.33/50.00s)
+[1]Geila       |09:32:55 | 25-10-2026| watch amato-trailer: 89% (44.83/50.00s)
+[1]Geila       |09:33:01 | 25-10-2026| watch amato-trailer: 100% (50.00/50.00s)
+[1]Geila       |09:33:01 | 25-10-2026| watch amato-trailer: COMPLETED (50.00/50.00s)
+[1]Geila       |09:33:06 | 25-10-2026| watch [2/22] farming kagura-trailer...
+[1]Geila       |09:33:08 | 25-10-2026| watch kagura-trailer: 0% (0.00/47.00s)
+[1]Geila       |09:33:14 | 25-10-2026| watch kagura-trailer: 11% (5.22/47.00s)
+[1]Geila       |09:33:21 | 25-10-2026| watch kagura-trailer: 22% (10.73/47.00s)
+[1]Geila       |09:33:27 | 25-10-2026| watch kagura-trailer: 35% (16.71/47.00s)
+[1]Geila       |09:33:33 | 25-10-2026| watch kagura-trailer: 47% (22.20/47.00s)
+[1]Geila       |09:33:39 | 25-10-2026| watch kagura-trailer: 58% (27.70/47.00s)
+[1]Geila       |09:33:45 | 25-10-2026| watch kagura-trailer: 70% (33.20/47.00s)
+[1]Geila       |09:33:51 | 25-10-2026| watch kagura-trailer: 82% (38.67/47.00s)
+[1]Geila       |09:33:58 | 25-10-2026| watch kagura-trailer: 93% (44.18/47.00s)
+[1]Geila       |09:33:58 | 25-10-2026| watch kagura-trailer: COMPLETED (44.18/47.00s)
+[1]Geila       |09:34:03 | 25-10-2026| watch [3/22] farming kagura-trailer-2...
+[1]Geila       |09:34:04 | 25-10-2026| watch kagura-trailer-2: 0% (0.00/20.00s)
+[1]Geila       |09:34:11 | 25-10-2026| watch kagura-trailer-2: 26% (5.25/20.00s)
+[1]Geila       |09:34:17 | 25-10-2026| watch kagura-trailer-2: 53% (10.80/20.00s)
+[1]Geila       |09:34:23 | 25-10-2026| watch kagura-trailer-2: 81% (16.35/20.00s)
+[1]Geila       |09:34:29 | 25-10-2026| watch kagura-trailer-2: 100% (20.00/20.00s)
+[1]Geila       |09:34:29 | 25-10-2026| watch kagura-trailer-2: COMPLETED (20.00/20.00s)
+[1]Geila       |09:34:34 | 25-10-2026| watch [4/22] farming oshi-ep1...
+[1]Geila       |09:34:36 | 25-10-2026| watch oshi-ep1: 0% (0.00/27.00s)
+[1]Geila       |09:34:42 | 25-10-2026| watch oshi-ep1: 19% (5.38/27.00s)
+[1]Geila       |09:34:48 | 25-10-2026| watch oshi-ep1: 40% (10.88/27.00s)
+[1]Geila       |09:34:55 | 25-10-2026| watch oshi-ep1: 61% (16.57/27.00s)
+[1]Geila       |09:35:01 | 25-10-2026| watch oshi-ep1: 82% (22.22/27.00s)
+[1]Geila       |09:35:08 | 25-10-2026| watch oshi-ep1: 100% (27.00/27.00s)
+[1]Geila       |09:35:08 | 25-10-2026| watch oshi-ep1: COMPLETED (27.00/27.00s)
+[1]Geila       |09:35:13 | 25-10-2026| watch [5/22] farming amato-season-1-trailer...
+[1]Geila       |09:35:15 | 25-10-2026| watch amato-season-1-trailer: 0% (0.00/93.00s)
+[1]Geila       |09:35:21 | 25-10-2026| watch amato-season-1-trailer: 5% (5.47/93.00s)
+[1]Geila       |09:35:28 | 25-10-2026| watch amato-season-1-trailer: 11% (11.05/93.00s)
+[1]Geila       |09:35:34 | 25-10-2026| watch amato-season-1-trailer: 17% (16.53/93.00s)
+[1]Geila       |09:35:40 | 25-10-2026| watch amato-season-1-trailer: 23% (22.04/93.00s)
+[1]Geila       |09:35:46 | 25-10-2026| watch amato-season-1-trailer: 29% (27.60/93.00s)
+[1]Geila       |09:35:53 | 25-10-2026| watch amato-season-1-trailer: 35% (33.26/93.00s)
+[1]Geila       |09:36:00 | 25-10-2026| watch amato-season-1-trailer: 42% (39.62/93.00s)
+[1]Geila       |09:36:06 | 25-10-2026| watch amato-season-1-trailer: 48% (45.30/93.00s)
+[1]Geila       |09:36:12 | 25-10-2026| watch amato-season-1-trailer: 54% (50.83/93.00s)
+[1]Geila       |09:36:18 | 25-10-2026| watch amato-season-1-trailer: 60% (56.46/93.00s)
+[1]Geila       |09:36:25 | 25-10-2026| watch amato-season-1-trailer: 66% (61.91/93.00s)
+[1]Geila       |09:36:31 | 25-10-2026| watch amato-season-1-trailer: 72% (67.83/93.00s)
+[1]Geila       |09:36:37 | 25-10-2026| watch amato-season-1-trailer: 78% (73.41/93.00s)
+[1]Geila       |09:36:43 | 25-10-2026| watch amato-season-1-trailer: 84% (78.93/93.00s)
+[1]Geila       |09:36:50 | 25-10-2026| watch amato-season-1-trailer: 90% (84.37/93.00s)
+[1]Geila       |09:36:50 | 25-10-2026| watch amato-season-1-trailer: COMPLETED (84.37/93.00s)
+[1]Geila       |09:36:55 | 25-10-2026| watch [6/22] farming oshi-studio-product-film...
+[1]Geila       |09:36:57 | 25-10-2026| watch oshi-studio-product-film: 0% (0.00/64.00s)
+[1]Geila       |09:37:03 | 25-10-2026| watch oshi-studio-product-film: 8% (5.22/64.00s)
+[1]Geila       |09:37:09 | 25-10-2026| watch oshi-studio-product-film: 16% (10.69/64.00s)
+[1]Geila       |09:37:15 | 25-10-2026| watch oshi-studio-product-film: 25% (16.20/64.00s)
+[1]Geila       |09:37:22 | 25-10-2026| watch oshi-studio-product-film: 34% (21.76/64.00s)
+[1]Geila       |09:37:29 | 25-10-2026| watch oshi-studio-product-film: 43% (27.63/64.00s)
+[1]Geila       |09:37:35 | 25-10-2026| watch oshi-studio-product-film: 52% (33.65/64.00s)
+[1]Geila       |09:37:41 | 25-10-2026| watch oshi-studio-product-film: 61% (39.12/64.00s)
+[1]Geila       |09:37:47 | 25-10-2026| watch oshi-studio-product-film: 69% (44.62/64.00s)
+[1]Geila       |09:37:53 | 25-10-2026| watch oshi-studio-product-film: 78% (50.18/64.00s)
+[1]Geila       |09:37:59 | 25-10-2026| watch oshi-studio-product-film: 87% (55.70/64.00s)
+[1]Geila       |09:38:05 | 25-10-2026| watch oshi-studio-product-film: 95% (61.28/64.00s)
+[1]Geila       |09:38:05 | 25-10-2026| watch oshi-studio-product-film: COMPLETED (61.28/64.00s)
+[1]Geila       |09:38:10 | 25-10-2026| watch [7/22] farming smart-pocket-official-trailer...
+[1]Geila       |09:38:12 | 25-10-2026| watch smart-pocket-official-trailer: 0% (0.00/42.00s)
+[1]Geila       |09:38:18 | 25-10-2026| watch smart-pocket-official-trailer: 12% (5.19/42.00s)
+[1]Geila       |09:38:24 | 25-10-2026| watch smart-pocket-official-trailer: 25% (10.81/42.00s)
+[1]Geila       |09:38:31 | 25-10-2026| watch smart-pocket-official-trailer: 38% (16.28/42.00s)
+[1]Geila       |09:38:37 | 25-10-2026| watch smart-pocket-official-trailer: 51% (21.78/42.00s)
+[1]Geila       |09:38:43 | 25-10-2026| watch smart-pocket-official-trailer: 64% (27.30/42.00s)
+[1]Geila       |09:38:50 | 25-10-2026| watch smart-pocket-official-trailer: 78% (33.13/42.00s)
+[1]Geila       |09:38:56 | 25-10-2026| watch smart-pocket-official-trailer: 92% (38.90/42.00s)
+[1]Geila       |09:38:56 | 25-10-2026| watch smart-pocket-official-trailer: COMPLETED (38.90/42.00s)
+[1]Geila       |09:39:01 | 25-10-2026| watch [8/22] farming smart-pocket-card-showcase...
+[1]Geila       |09:39:02 | 25-10-2026| watch smart-pocket-card-showcase: 0% (0.00/65.00s)
+[1]Geila       |09:39:08 | 25-10-2026| watch smart-pocket-card-showcase: 8% (5.27/65.00s)
+[1]Geila       |09:39:15 | 25-10-2026| watch smart-pocket-card-showcase: 16% (10.77/65.00s)
+[1]Geila       |09:39:21 | 25-10-2026| watch smart-pocket-card-showcase: 25% (16.35/65.00s)
+[1]Geila       |09:39:27 | 25-10-2026| watch smart-pocket-card-showcase: 34% (22.30/65.00s)
+[1]Geila       |09:39:34 | 25-10-2026| watch smart-pocket-card-showcase: 42% (27.85/65.00s)
+[1]Geila       |09:39:40 | 25-10-2026| watch smart-pocket-card-showcase: 51% (33.31/65.00s)
+[1]Geila       |09:39:46 | 25-10-2026| watch smart-pocket-card-showcase: 59% (38.79/65.00s)
+[1]Geila       |09:39:52 | 25-10-2026| watch smart-pocket-card-showcase: 68% (44.48/65.00s)
+[1]Geila       |09:39:59 | 25-10-2026| watch smart-pocket-card-showcase: 76% (50.00/65.00s)
+[1]Geila       |09:40:05 | 25-10-2026| watch smart-pocket-card-showcase: 85% (55.88/65.00s)
+[1]Geila       |09:40:11 | 25-10-2026| watch smart-pocket-card-showcase: 94% (61.38/65.00s)
+[1]Geila       |09:40:11 | 25-10-2026| watch smart-pocket-card-showcase: COMPLETED (61.38/65.00s)
+[1]Geila       |09:40:16 | 25-10-2026| watch [9/22] farming oshi-clash-launch-trailer...
+[1]Geila       |09:40:18 | 25-10-2026| watch oshi-clash-launch-trailer: 0% (0.00/60.00s)
+[1]Geila       |09:40:24 | 25-10-2026| watch oshi-clash-launch-trailer: 8% (5.20/60.00s)
+[1]Geila       |09:40:30 | 25-10-2026| watch oshi-clash-launch-trailer: 18% (10.97/60.00s)
+[1]Geila       |09:40:37 | 25-10-2026| watch oshi-clash-launch-trailer: 27% (16.60/60.00s)
+[1]Geila       |09:40:43 | 25-10-2026| watch oshi-clash-launch-trailer: 37% (22.44/60.00s)
+[1]Geila       |09:40:49 | 25-10-2026| watch oshi-clash-launch-trailer: 46% (27.92/60.00s)
+[1]Geila       |09:40:57 | 25-10-2026| watch oshi-clash-launch-trailer: 55% (33.39/60.00s)
+[1]Geila       |09:41:03 | 25-10-2026| watch oshi-clash-launch-trailer: 66% (39.71/60.00s)
+[1]Geila       |09:41:09 | 25-10-2026| watch oshi-clash-launch-trailer: 76% (45.80/60.00s)
+[1]Geila       |09:41:15 | 25-10-2026| watch oshi-clash-launch-trailer: 85% (51.36/60.00s)
+[1]Geila       |09:41:21 | 25-10-2026| watch oshi-clash-launch-trailer: 94% (56.87/60.00s)
+[1]Geila       |09:41:21 | 25-10-2026| watch oshi-clash-launch-trailer: COMPLETED (56.87/60.00s)
+[1]Geila       |09:41:26 | 25-10-2026| watch [10/22] farming oshi-theme-mv...
+[1]Geila       |09:41:28 | 25-10-2026| watch oshi-theme-mv: 0% (0.00/106.00s)
+[1]Geila       |09:41:34 | 25-10-2026| watch oshi-theme-mv: 4% (5.20/106.00s)
+[1]Geila       |09:41:41 | 25-10-2026| watch oshi-theme-mv: 10% (10.66/106.00s)
+[1]Geila       |09:41:47 | 25-10-2026| watch oshi-theme-mv: 15% (16.56/106.00s)
+[1]Geila       |09:41:53 | 25-10-2026| watch oshi-theme-mv: 20% (22.01/106.00s)
+[1]Geila       |09:42:00 | 25-10-2026| watch oshi-theme-mv: 26% (27.91/106.00s)
+[1]Geila       |09:42:06 | 25-10-2026| watch oshi-theme-mv: 31% (33.40/106.00s)
+[1]Geila       |09:42:12 | 25-10-2026| watch oshi-theme-mv: 36% (38.89/106.00s)
+[1]Geila       |09:42:18 | 25-10-2026| watch oshi-theme-mv: 41% (44.37/106.00s)
+[1]Geila       |09:42:24 | 25-10-2026| watch oshi-theme-mv: 47% (49.90/106.00s)
+[1]Geila       |09:42:31 | 25-10-2026| watch oshi-theme-mv: 52% (55.38/106.00s)
+[1]Geila       |09:42:37 | 25-10-2026| watch oshi-theme-mv: 58% (61.56/106.00s)
+[1]Geila       |09:42:43 | 25-10-2026| watch oshi-theme-mv: 63% (67.09/106.00s)
+[1]Geila       |09:42:49 | 25-10-2026| watch oshi-theme-mv: 68% (72.56/106.00s)
+[1]Geila       |09:42:55 | 25-10-2026| watch oshi-theme-mv: 73% (78.05/106.00s)
+[1]Geila       |09:43:01 | 25-10-2026| watch oshi-theme-mv: 78% (83.53/106.00s)
+[1]Geila       |09:43:08 | 25-10-2026| watch oshi-theme-mv: 84% (89.07/106.00s)
+[1]Geila       |09:43:14 | 25-10-2026| watch oshi-theme-mv: 89% (94.62/106.00s)
+[1]Geila       |09:43:21 | 25-10-2026| watch oshi-theme-mv: 94% (100.17/106.00s)
+[1]Geila       |09:43:21 | 25-10-2026| watch oshi-theme-mv: COMPLETED (100.17/106.00s)
+[1]Geila       |09:43:26 | 25-10-2026| watch [11/22] farming oshi-theme-lyric-video...
+[1]Geila       |09:43:28 | 25-10-2026| watch oshi-theme-lyric-video: 0% (0.00/269.00s)
+[1]Geila       |09:43:35 | 25-10-2026| watch oshi-theme-lyric-video: 1% (5.30/269.00s)
+[1]Geila       |09:43:41 | 25-10-2026| watch oshi-theme-lyric-video: 4% (11.40/269.00s)
+[1]Geila       |09:43:48 | 25-10-2026| watch oshi-theme-lyric-video: 6% (16.92/269.00s)
+[1]Geila       |09:43:55 | 25-10-2026| watch oshi-theme-lyric-video: 8% (22.98/269.00s)
+[1]Geila       |09:44:01 | 25-10-2026| watch oshi-theme-lyric-video: 10% (29.06/269.00s)
+[1]Geila       |09:44:07 | 25-10-2026| watch oshi-theme-lyric-video: 12% (34.62/269.00s)
+[1]Geila       |09:44:13 | 25-10-2026| watch oshi-theme-lyric-video: 14% (40.06/269.00s)
+[1]Geila       |09:44:21 | 25-10-2026| watch oshi-theme-lyric-video: 17% (45.84/269.00s)
+[1]Geila       |09:44:28 | 25-10-2026| watch oshi-theme-lyric-video: 19% (51.97/269.00s)
+[1]Geila       |09:44:34 | 25-10-2026| watch oshi-theme-lyric-video: 21% (58.56/269.00s)
+[1]Geila       |09:44:41 | 25-10-2026| watch oshi-theme-lyric-video: 24% (64.71/269.00s)
+[1]Geila       |09:44:47 | 25-10-2026| watch oshi-theme-lyric-video: 26% (70.48/269.00s)
+[1]Geila       |09:44:53 | 25-10-2026| watch oshi-theme-lyric-video: 28% (75.98/269.00s)
+[1]Geila       |09:44:59 | 25-10-2026| watch oshi-theme-lyric-video: 30% (81.44/269.00s)
+[1]Geila       |09:45:05 | 25-10-2026| watch oshi-theme-lyric-video: 32% (87.06/269.00s)
+[1]Geila       |09:45:12 | 25-10-2026| watch oshi-theme-lyric-video: 34% (92.64/269.00s)
+[1]Geila       |09:45:18 | 25-10-2026| watch oshi-theme-lyric-video: 36% (99.03/269.00s)
+[1]Geila       |09:45:25 | 25-10-2026| watch oshi-theme-lyric-video: 38% (104.54/269.00s)
+[1]Geila       |09:45:31 | 25-10-2026| watch oshi-theme-lyric-video: 40% (110.05/269.00s)
+[1]Geila       |09:45:37 | 25-10-2026| watch oshi-theme-lyric-video: 42% (115.54/269.00s)
+[1]Geila       |09:45:43 | 25-10-2026| watch oshi-theme-lyric-video: 45% (121.26/269.00s)
+[1]Geila       |09:45:49 | 25-10-2026| watch oshi-theme-lyric-video: 47% (126.88/269.00s)
+[1]Geila       |09:45:55 | 25-10-2026| watch oshi-theme-lyric-video: 49% (132.39/269.00s)
+[1]Geila       |09:46:02 | 25-10-2026| watch oshi-theme-lyric-video: 51% (137.90/269.00s)
+[1]Geila       |09:46:08 | 25-10-2026| watch oshi-theme-lyric-video: 53% (143.47/269.00s)
+[1]Geila       |09:46:14 | 25-10-2026| watch oshi-theme-lyric-video: 55% (148.94/269.00s)
+[1]Geila       |09:46:20 | 25-10-2026| watch oshi-theme-lyric-video: 57% (154.70/269.00s)
+[1]Geila       |09:46:26 | 25-10-2026| watch oshi-theme-lyric-video: 59% (160.16/269.00s)
+[1]Geila       |09:46:32 | 25-10-2026| watch oshi-theme-lyric-video: 61% (165.71/269.00s)
+[1]Geila       |09:46:38 | 25-10-2026| watch oshi-theme-lyric-video: 63% (171.17/269.00s)
+[1]Geila       |09:46:45 | 25-10-2026| watch oshi-theme-lyric-video: 65% (176.64/269.00s)
+[1]Geila       |09:46:51 | 25-10-2026| watch oshi-theme-lyric-video: 67% (182.24/269.00s)
+[1]Geila       |09:46:57 | 25-10-2026| watch oshi-theme-lyric-video: 69% (187.89/269.00s)
+[1]Geila       |09:47:03 | 25-10-2026| watch oshi-theme-lyric-video: 71% (193.43/269.00s)
+[1]Geila       |09:47:10 | 25-10-2026| watch oshi-theme-lyric-video: 73% (198.95/269.00s)
+[1]Geila       |09:47:16 | 25-10-2026| watch oshi-theme-lyric-video: 76% (204.63/269.00s)
+[1]Geila       |09:47:22 | 25-10-2026| watch oshi-theme-lyric-video: 78% (210.10/269.00s)
+[1]Geila       |09:47:28 | 25-10-2026| watch oshi-theme-lyric-video: 80% (215.57/269.00s)
+[1]Geila       |09:47:34 | 25-10-2026| watch oshi-theme-lyric-video: 82% (221.38/269.00s)
+[1]Geila       |09:47:40 | 25-10-2026| watch oshi-theme-lyric-video: 84% (226.92/269.00s)
+[1]Geila       |09:47:47 | 25-10-2026| watch oshi-theme-lyric-video: 86% (232.41/269.00s)
+[1]Geila       |09:47:53 | 25-10-2026| watch oshi-theme-lyric-video: 88% (238.26/269.00s)
+[1]Geila       |09:47:59 | 25-10-2026| watch oshi-theme-lyric-video: 90% (243.90/269.00s)
+[1]Geila       |09:47:59 | 25-10-2026| watch oshi-theme-lyric-video: COMPLETED (243.90/269.00s)
+[1]Geila       |09:48:04 | 25-10-2026| watch [12/22] farming oshi-first-journey...
+[1]Geila       |09:48:06 | 25-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Geila       |09:48:12 | 25-10-2026| watch oshi-first-journey: 6% (5.34/87.00s)
+[1]Geila       |09:48:19 | 25-10-2026| watch oshi-first-journey: 12% (10.92/87.00s)
+[1]Geila       |09:48:25 | 25-10-2026| watch oshi-first-journey: 19% (16.63/87.00s)
+[1]Geila       |09:48:31 | 25-10-2026| watch oshi-first-journey: 25% (22.12/87.00s)
+[1]Geila       |09:48:37 | 25-10-2026| watch oshi-first-journey: 31% (27.60/87.00s)
+[1]Geila       |09:48:43 | 25-10-2026| watch oshi-first-journey: 38% (33.09/87.00s)
+[1]Geila       |09:48:50 | 25-10-2026| watch oshi-first-journey: 44% (38.83/87.00s)
+[1]Geila       |09:48:56 | 25-10-2026| watch oshi-first-journey: 51% (44.41/87.00s)
+[1]Geila       |09:49:04 | 25-10-2026| watch oshi-first-journey: 58% (50.61/87.00s)
+[1]Geila       |09:49:10 | 25-10-2026| watch oshi-first-journey: 65% (56.85/87.00s)
+[1]Geila       |09:49:16 | 25-10-2026| watch oshi-first-journey: 72% (62.87/87.00s)
+[1]Geila       |09:49:23 | 25-10-2026| watch oshi-first-journey: 78% (68.37/87.00s)
+[1]Geila       |09:49:29 | 25-10-2026| watch oshi-first-journey: 85% (74.15/87.00s)
+[1]Geila       |09:49:35 | 25-10-2026| watch oshi-first-journey: 91% (79.63/87.00s)
+[1]Geila       |09:49:35 | 25-10-2026| watch oshi-first-journey: COMPLETED (79.63/87.00s)
+[1]Geila       |09:49:40 | 25-10-2026| watch [13/22] farming oshi-captains-hat...
+[1]Geila       |09:49:41 | 25-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Geila       |09:49:47 | 25-10-2026| watch oshi-captains-hat: 5% (5.22/92.00s)
+[1]Geila       |09:49:54 | 25-10-2026| watch oshi-captains-hat: 11% (10.68/92.00s)
+[1]Geila       |09:50:00 | 25-10-2026| watch oshi-captains-hat: 17% (16.29/92.00s)
+[1]Geila       |09:50:06 | 25-10-2026| watch oshi-captains-hat: 23% (21.78/92.00s)
+[1]Geila       |09:50:12 | 25-10-2026| watch oshi-captains-hat: 29% (27.31/92.00s)
+[1]Geila       |09:50:18 | 25-10-2026| watch oshi-captains-hat: 35% (32.82/92.00s)
+[1]Geila       |09:50:24 | 25-10-2026| watch oshi-captains-hat: 41% (38.34/92.00s)
+[1]Geila       |09:50:30 | 25-10-2026| watch oshi-captains-hat: 47% (43.84/92.00s)
+[1]Geila       |09:50:37 | 25-10-2026| watch oshi-captains-hat: 53% (49.38/92.00s)
+[1]Geila       |09:50:43 | 25-10-2026| watch oshi-captains-hat: 59% (54.93/92.00s)
+[1]Geila       |09:50:49 | 25-10-2026| watch oshi-captains-hat: 65% (60.58/92.00s)
+[1]Geila       |09:50:55 | 25-10-2026| watch oshi-captains-hat: 71% (66.13/92.00s)
+[1]Geila       |09:51:01 | 25-10-2026| watch oshi-captains-hat: 77% (71.70/92.00s)
+[1]Geila       |09:51:08 | 25-10-2026| watch oshi-captains-hat: 83% (77.22/92.00s)
+[1]Geila       |09:51:14 | 25-10-2026| watch oshi-captains-hat: 90% (82.86/92.00s)
+[1]Geila       |09:51:14 | 25-10-2026| watch oshi-captains-hat: COMPLETED (82.86/92.00s)
+[1]Geila       |09:51:19 | 25-10-2026| watch [14/22] farming oshi-rainbow-star...
+[1]Geila       |09:51:20 | 25-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Geila       |09:51:27 | 25-10-2026| watch oshi-rainbow-star: 6% (5.22/86.00s)
+[1]Geila       |09:51:33 | 25-10-2026| watch oshi-rainbow-star: 12% (10.88/86.00s)
+[1]Geila       |09:51:41 | 25-10-2026| watch oshi-rainbow-star: 19% (16.35/86.00s)
+[1]Geila       |09:51:47 | 25-10-2026| watch oshi-rainbow-star: 27% (23.29/86.00s)
+[1]Geila       |09:51:53 | 25-10-2026| watch oshi-rainbow-star: 34% (29.32/86.00s)
+[1]Geila       |09:52:00 | 25-10-2026| watch oshi-rainbow-star: 40% (34.93/86.00s)
+[1]Geila       |09:52:06 | 25-10-2026| watch oshi-rainbow-star: 47% (40.53/86.00s)
+[1]Geila       |09:52:12 | 25-10-2026| watch oshi-rainbow-star: 53% (46.03/86.00s)
+[1]Geila       |09:52:18 | 25-10-2026| watch oshi-rainbow-star: 59% (51.52/86.00s)
+[1]Geila       |09:52:24 | 25-10-2026| watch oshi-rainbow-star: 66% (57.12/86.00s)
+[1]Geila       |09:52:31 | 25-10-2026| watch oshi-rainbow-star: 72% (62.63/86.00s)
+[1]Geila       |09:52:37 | 25-10-2026| watch oshi-rainbow-star: 79% (68.46/86.00s)
+[1]Geila       |09:52:44 | 25-10-2026| watch oshi-rainbow-star: 86% (74.24/86.00s)
+[1]Geila       |09:52:50 | 25-10-2026| watch oshi-rainbow-star: 93% (80.31/86.00s)
+[1]Geila       |09:52:50 | 25-10-2026| watch oshi-rainbow-star: COMPLETED (80.31/86.00s)
+[1]Geila       |09:52:55 | 25-10-2026| watch [15/22] farming oshi-rainbow-lighthouse...
+[1]Geila       |09:52:57 | 25-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Geila       |09:53:03 | 25-10-2026| watch oshi-rainbow-lighthouse: 5% (5.20/87.00s)
+[1]Geila       |09:53:10 | 25-10-2026| watch oshi-rainbow-lighthouse: 12% (10.96/87.00s)
+[1]Geila       |09:53:17 | 25-10-2026| watch oshi-rainbow-lighthouse: 19% (16.77/87.00s)
+[1]Geila       |09:53:23 | 25-10-2026| watch oshi-rainbow-lighthouse: 26% (22.84/87.00s)
+[1]Geila       |09:53:29 | 25-10-2026| watch oshi-rainbow-lighthouse: 33% (28.74/87.00s)
+[1]Geila       |09:53:35 | 25-10-2026| watch oshi-rainbow-lighthouse: 39% (34.21/87.00s)
+[1]Geila       |09:53:42 | 25-10-2026| watch oshi-rainbow-lighthouse: 45% (39.75/87.00s)
+[1]Geila       |09:53:48 | 25-10-2026| watch oshi-rainbow-lighthouse: 52% (45.33/87.00s)
+[1]Geila       |09:53:54 | 25-10-2026| watch oshi-rainbow-lighthouse: 58% (51.11/87.00s)
+[1]Geila       |09:54:00 | 25-10-2026| watch oshi-rainbow-lighthouse: 65% (56.60/87.00s)
+[1]Geila       |09:54:07 | 25-10-2026| watch oshi-rainbow-lighthouse: 71% (62.12/87.00s)
+[1]Geila       |09:54:13 | 25-10-2026| watch oshi-rainbow-lighthouse: 78% (68.18/87.00s)
+[1]Geila       |09:54:19 | 25-10-2026| watch oshi-rainbow-lighthouse: 84% (73.73/87.00s)
+[1]Geila       |09:54:25 | 25-10-2026| watch oshi-rainbow-lighthouse: 91% (79.19/87.00s)
+[1]Geila       |09:54:25 | 25-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (79.19/87.00s)
+[1]Geila       |09:54:30 | 25-10-2026| watch [16/22] farming bakeru-ikesou-jan-mv...
+[1]Geila       |09:54:32 | 25-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Geila       |09:54:38 | 25-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.38/181.00s)
+[1]Geila       |09:54:44 | 25-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.85/181.00s)
+[1]Geila       |09:54:50 | 25-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.40/181.00s)
+[1]Geila       |09:54:57 | 25-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.95/181.00s)
+[1]Geila       |09:55:03 | 25-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.47/181.00s)
+[1]Geila       |09:55:10 | 25-10-2026| watch bakeru-ikesou-jan-mv: 18% (32.92/181.00s)
+[1]Geila       |09:55:16 | 25-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.08/181.00s)
+[1]Geila       |09:55:22 | 25-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.55/181.00s)
+[1]Geila       |09:55:28 | 25-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.63/181.00s)
+[1]Geila       |09:55:35 | 25-10-2026| watch bakeru-ikesou-jan-mv: 30% (56.08/181.00s)
+[1]Geila       |09:55:42 | 25-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.02/181.00s)
+[1]Geila       |09:55:48 | 25-10-2026| watch bakeru-ikesou-jan-mv: 37% (67.91/181.00s)
+[1]Geila       |09:55:54 | 25-10-2026| watch bakeru-ikesou-jan-mv: 40% (73.52/181.00s)
+[1]Geila       |09:56:00 | 25-10-2026| watch bakeru-ikesou-jan-mv: 43% (78.98/181.00s)
+[1]Geila       |09:56:07 | 25-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.71/181.00s)
+[1]Geila       |09:56:13 | 25-10-2026| watch bakeru-ikesou-jan-mv: 50% (90.77/181.00s)
+[1]Geila       |09:56:19 | 25-10-2026| watch bakeru-ikesou-jan-mv: 53% (96.29/181.00s)
+[1]Geila       |09:56:26 | 25-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.79/181.00s)
+[1]Geila       |09:56:33 | 25-10-2026| watch bakeru-ikesou-jan-mv: 59% (108.00/181.00s)
+[1]Geila       |09:56:39 | 25-10-2026| watch bakeru-ikesou-jan-mv: 62% (113.89/181.00s)
+[1]Geila       |09:56:45 | 25-10-2026| watch bakeru-ikesou-jan-mv: 65% (119.36/181.00s)
+[1]Geila       |09:56:51 | 25-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.85/181.00s)
+[1]Geila       |09:56:57 | 25-10-2026| watch bakeru-ikesou-jan-mv: 72% (130.32/181.00s)
+[1]Geila       |09:57:03 | 25-10-2026| watch bakeru-ikesou-jan-mv: 75% (136.00/181.00s)
+[1]Geila       |09:57:10 | 25-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.49/181.00s)
+[1]Geila       |09:57:16 | 25-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.15/181.00s)
+[1]Geila       |09:57:22 | 25-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.90/181.00s)
+[1]Geila       |09:57:29 | 25-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.57/181.00s)
+[1]Geila       |09:57:35 | 25-10-2026| watch bakeru-ikesou-jan-mv: 90% (164.52/181.00s)
+[1]Geila       |09:57:35 | 25-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (164.52/181.00s)
+[1]Geila       |09:57:40 | 25-10-2026| watch [17/22] farming ep1...
+[1]Geila       |09:57:43 | 25-10-2026| watch ep1: 0% (0.00/382.00s)
+[1]Geila       |09:57:49 | 25-10-2026| watch ep1: 1% (5.68/382.00s)
+[1]Geila       |09:57:56 | 25-10-2026| watch ep1: 2% (11.15/382.00s)
+[1]Geila       |09:58:02 | 25-10-2026| watch ep1: 4% (17.31/382.00s)
+[1]Geila       |09:58:08 | 25-10-2026| watch ep1: 5% (22.83/382.00s)
+[1]Geila       |09:58:14 | 25-10-2026| watch ep1: 7% (28.41/382.00s)
+[1]Geila       |09:58:20 | 25-10-2026| watch ep1: 8% (33.88/382.00s)
+[1]Geila       |09:58:27 | 25-10-2026| watch ep1: 10% (39.42/382.00s)
+[1]Geila       |09:58:33 | 25-10-2026| watch ep1: 11% (45.04/382.00s)
+[1]Geila       |09:58:39 | 25-10-2026| watch ep1: 13% (50.51/382.00s)
+[1]Geila       |09:58:46 | 25-10-2026| watch ep1: 14% (55.98/382.00s)
+[1]Geila       |09:58:52 | 25-10-2026| watch ep1: 16% (62.23/382.00s)
+[1]Geila       |09:58:58 | 25-10-2026| watch ep1: 17% (68.29/382.00s)
+[1]Geila       |09:59:05 | 25-10-2026| watch ep1: 19% (73.74/382.00s)
+[1]Geila       |09:59:11 | 25-10-2026| watch ep1: 20% (79.54/382.00s)
+[1]Geila       |09:59:17 | 25-10-2026| watch ep1: 22% (84.99/382.00s)
+[1]Geila       |09:59:25 | 25-10-2026| watch ep1: 23% (90.52/382.00s)
+[1]Geila       |09:59:31 | 25-10-2026| watch ep1: 25% (96.60/382.00s)
+[1]Geila       |09:59:37 | 25-10-2026| watch ep1: 26% (102.89/382.00s)
+[1]Geila       |09:59:43 | 25-10-2026| watch ep1: 28% (108.73/382.00s)
+[1]Geila       |09:59:49 | 25-10-2026| watch ep1: 29% (114.17/382.00s)
+[1]Geila       |09:59:55 | 25-10-2026| watch ep1: 31% (119.61/382.00s)
+[1]Geila       |10:00:02 | 25-10-2026| watch ep1: 32% (125.05/382.00s)
+[1]Geila       |10:00:08 | 25-10-2026| watch ep1: 34% (130.60/382.00s)
+[1]Geila       |10:00:14 | 25-10-2026| watch ep1: 35% (136.06/382.00s)
+[1]Geila       |10:00:20 | 25-10-2026| watch ep1: 37% (141.53/382.00s)
+[1]Geila       |10:00:26 | 25-10-2026| watch ep1: 38% (146.99/382.00s)
+[1]Geila       |10:00:33 | 25-10-2026| watch ep1: 40% (152.94/382.00s)
+[1]Geila       |10:00:39 | 25-10-2026| watch ep1: 41% (158.48/382.00s)
+[1]Geila       |10:00:45 | 25-10-2026| watch ep1: 42% (164.22/382.00s)
+[1]Geila       |10:00:51 | 25-10-2026| watch ep1: 44% (169.80/382.00s)
+[1]Geila       |10:00:58 | 25-10-2026| watch ep1: 45% (175.41/382.00s)
+[1]Geila       |10:01:04 | 25-10-2026| watch ep1: 47% (181.17/382.00s)
+[1]Geila       |10:01:10 | 25-10-2026| watch ep1: 48% (186.73/382.00s)
+[1]Geila       |10:01:16 | 25-10-2026| watch ep1: 50% (192.28/382.00s)
+[1]Geila       |10:01:23 | 25-10-2026| watch ep1: 51% (197.75/382.00s)
+[1]Geila       |10:01:30 | 25-10-2026| watch ep1: 53% (204.05/382.00s)
+[1]Geila       |10:01:36 | 25-10-2026| watch ep1: 54% (209.74/382.00s)
+[1]Geila       |10:01:42 | 25-10-2026| watch ep1: 56% (215.70/382.00s)
+[1]Geila       |10:01:49 | 25-10-2026| watch ep1: 57% (221.34/382.00s)
+[1]Geila       |10:01:55 | 25-10-2026| watch ep1: 59% (226.81/382.00s)
+[1]Geila       |10:02:01 | 25-10-2026| watch ep1: 60% (232.28/382.00s)
+[1]Geila       |10:02:07 | 25-10-2026| watch ep1: 62% (237.75/382.00s)
+[1]Geila       |10:02:13 | 25-10-2026| watch ep1: 63% (243.42/382.00s)
+[1]Geila       |10:02:19 | 25-10-2026| watch ep1: 65% (248.89/382.00s)
+[1]Geila       |10:02:25 | 25-10-2026| watch ep1: 66% (254.35/382.00s)
+[1]Geila       |10:02:32 | 25-10-2026| watch ep1: 68% (259.83/382.00s)
+[1]Geila       |10:02:38 | 25-10-2026| watch ep1: 69% (265.87/382.00s)
+[1]Geila       |10:02:44 | 25-10-2026| watch ep1: 71% (271.48/382.00s)
+[1]Geila       |10:02:50 | 25-10-2026| watch ep1: 72% (276.98/382.00s)
+[1]Geila       |10:02:57 | 25-10-2026| watch ep1: 73% (282.46/382.00s)
+[1]Geila       |10:03:03 | 25-10-2026| watch ep1: 75% (288.29/382.00s)
+[1]Geila       |10:03:10 | 25-10-2026| watch ep1: 77% (294.17/382.00s)
+[1]Geila       |10:03:16 | 25-10-2026| watch ep1: 78% (299.86/382.00s)
+[1]Geila       |10:03:23 | 25-10-2026| watch ep1: 80% (305.76/382.00s)
+[1]Geila       |10:03:29 | 25-10-2026| watch ep1: 81% (311.41/382.00s)
+[1]Geila       |10:03:35 | 25-10-2026| watch ep1: 82% (317.01/382.00s)
+[1]Geila       |10:03:42 | 25-10-2026| watch ep1: 84% (322.66/382.00s)
+[1]Geila       |10:03:48 | 25-10-2026| watch ep1: 86% (328.57/382.00s)
+[1]Geila       |10:03:54 | 25-10-2026| watch ep1: 87% (334.06/382.00s)
+[1]Geila       |10:04:01 | 25-10-2026| watch ep1: 89% (340.07/382.00s)
+[1]Geila       |10:04:07 | 25-10-2026| watch ep1: 90% (345.60/382.00s)
+[1]Geila       |10:04:07 | 25-10-2026| watch ep1: COMPLETED (345.60/382.00s)
+[1]Geila       |10:04:12 | 25-10-2026| watch [18/22] farming ep2...
+[1]Geila       |10:04:13 | 25-10-2026| watch ep2: 0% (0.00/406.00s)
+[1]Geila       |10:04:20 | 25-10-2026| watch ep2: 1% (5.21/406.00s)
+[1]Geila       |10:04:26 | 25-10-2026| watch ep2: 2% (10.67/406.00s)
+[1]Geila       |10:04:33 | 25-10-2026| watch ep2: 4% (16.84/406.00s)
+[1]Geila       |10:04:40 | 25-10-2026| watch ep2: 5% (22.77/406.00s)
+[1]Geila       |10:04:47 | 25-10-2026| watch ep2: 7% (29.04/406.00s)
+[1]Geila       |10:04:53 | 25-10-2026| watch ep2: 8% (35.18/406.00s)
+[1]Geila       |10:04:59 | 25-10-2026| watch ep2: 10% (40.85/406.00s)
+[1]Geila       |10:05:05 | 25-10-2026| watch ep2: 11% (46.30/406.00s)
+[1]Geila       |10:05:12 | 25-10-2026| watch ep2: 12% (51.95/406.00s)
+[1]Geila       |10:05:18 | 25-10-2026| watch ep2: 14% (57.57/406.00s)
+[1]Geila       |10:05:24 | 25-10-2026| watch ep2: 15% (63.07/406.00s)
+[1]Geila       |10:05:30 | 25-10-2026| watch ep2: 16% (68.52/406.00s)
+[1]Geila       |10:05:36 | 25-10-2026| watch ep2: 18% (74.04/406.00s)
+[1]Geila       |10:05:43 | 25-10-2026| watch ep2: 19% (79.53/406.00s)
+[1]Geila       |10:05:49 | 25-10-2026| watch ep2: 21% (85.41/406.00s)
+[1]Geila       |10:05:55 | 25-10-2026| watch ep2: 22% (90.87/406.00s)
+[1]Geila       |10:06:01 | 25-10-2026| watch ep2: 23% (96.44/406.00s)
+[1]Geila       |10:06:07 | 25-10-2026| watch ep2: 25% (102.01/406.00s)
+[1]Geila       |10:06:13 | 25-10-2026| watch ep2: 26% (107.48/406.00s)
+[1]Geila       |10:06:20 | 25-10-2026| watch ep2: 27% (112.97/406.00s)
+[1]Geila       |10:06:27 | 25-10-2026| watch ep2: 29% (119.01/406.00s)
+[1]Geila       |10:06:33 | 25-10-2026| watch ep2: 30% (125.17/406.00s)
+[1]Geila       |10:06:39 | 25-10-2026| watch ep2: 32% (130.66/406.00s)
+[1]Geila       |10:06:45 | 25-10-2026| watch ep2: 33% (136.17/406.00s)
+[1]Geila       |10:06:52 | 25-10-2026| watch ep2: 34% (141.81/406.00s)
+[1]Geila       |10:06:58 | 25-10-2026| watch ep2: 36% (147.50/406.00s)
+[1]Geila       |10:07:04 | 25-10-2026| watch ep2: 37% (153.00/406.00s)
+[1]Geila       |10:07:10 | 25-10-2026| watch ep2: 39% (158.48/406.00s)
+[1]Geila       |10:07:16 | 25-10-2026| watch ep2: 40% (164.11/406.00s)
+[1]Geila       |10:07:22 | 25-10-2026| watch ep2: 41% (169.56/406.00s)
+[1]Geila       |10:07:30 | 25-10-2026| watch ep2: 43% (175.01/406.00s)
+[1]Geila       |10:07:36 | 25-10-2026| watch ep2: 44% (181.29/406.00s)
+[1]Geila       |10:07:42 | 25-10-2026| watch ep2: 46% (187.36/406.00s)
+[1]Geila       |10:07:48 | 25-10-2026| watch ep2: 47% (193.04/406.00s)
+[1]Geila       |10:07:55 | 25-10-2026| watch ep2: 48% (198.62/406.00s)
+[1]Geila       |10:08:01 | 25-10-2026| watch ep2: 50% (204.27/406.00s)
+[1]Geila       |10:08:08 | 25-10-2026| watch ep2: 51% (209.74/406.00s)
+[1]Geila       |10:08:14 | 25-10-2026| watch ep2: 53% (216.16/406.00s)
+[1]Geila       |10:08:20 | 25-10-2026| watch ep2: 54% (221.94/406.00s)
+[1]Geila       |10:08:27 | 25-10-2026| watch ep2: 56% (227.39/406.00s)
+[1]Geila       |10:08:33 | 25-10-2026| watch ep2: 57% (233.17/406.00s)
+[1]Geila       |10:08:39 | 25-10-2026| watch ep2: 58% (238.68/406.00s)
+[1]Geila       |10:08:45 | 25-10-2026| watch ep2: 60% (244.14/406.00s)
+[1]Geila       |10:08:52 | 25-10-2026| watch ep2: 61% (249.59/406.00s)
+[1]Geila       |10:08:58 | 25-10-2026| watch ep2: 62% (255.60/406.00s)
+[1]Geila       |10:09:04 | 25-10-2026| watch ep2: 64% (261.10/406.00s)
+[1]Geila       |10:09:10 | 25-10-2026| watch ep2: 65% (266.62/406.00s)
+[1]Geila       |10:09:16 | 25-10-2026| watch ep2: 67% (272.24/406.00s)
+[1]Geila       |10:09:23 | 25-10-2026| watch ep2: 68% (277.92/406.00s)
+[1]Geila       |10:09:29 | 25-10-2026| watch ep2: 69% (283.38/406.00s)
+[1]Geila       |10:09:35 | 25-10-2026| watch ep2: 71% (289.06/406.00s)
+[1]Geila       |10:09:42 | 25-10-2026| watch ep2: 72% (294.75/406.00s)
+[1]Geila       |10:09:48 | 25-10-2026| watch ep2: 74% (300.56/406.00s)
+[1]Geila       |10:09:54 | 25-10-2026| watch ep2: 75% (306.05/406.00s)
+[1]Geila       |10:10:00 | 25-10-2026| watch ep2: 76% (311.61/406.00s)
+[1]Geila       |10:10:06 | 25-10-2026| watch ep2: 78% (317.11/406.00s)
+[1]Geila       |10:10:13 | 25-10-2026| watch ep2: 79% (322.62/406.00s)
+[1]Geila       |10:10:19 | 25-10-2026| watch ep2: 80% (328.73/406.00s)
+[1]Geila       |10:10:25 | 25-10-2026| watch ep2: 82% (334.22/406.00s)
+[1]Geila       |10:10:32 | 25-10-2026| watch ep2: 83% (339.69/406.00s)
+[1]Geila       |10:10:39 | 25-10-2026| watch ep2: 85% (345.84/406.00s)
+[1]Geila       |10:10:46 | 25-10-2026| watch ep2: 86% (351.93/406.00s)
+[1]Geila       |10:10:52 | 25-10-2026| watch ep2: 88% (358.20/406.00s)
+[1]Geila       |10:10:59 | 25-10-2026| watch ep2: 89% (364.01/406.00s)
+[1]Geila       |10:11:07 | 25-10-2026| watch ep2: 91% (369.96/406.00s)
+[1]Geila       |10:11:07 | 25-10-2026| watch ep2: COMPLETED (369.96/406.00s)
+[1]Geila       |10:11:12 | 25-10-2026| watch [19/22] farming ep3...
+[1]Geila       |10:11:14 | 25-10-2026| watch ep3: 0% (0.00/362.00s)
+[1]Geila       |10:11:20 | 25-10-2026| watch ep3: 1% (5.18/362.00s)
+[1]Geila       |10:11:26 | 25-10-2026| watch ep3: 2% (10.70/362.00s)
+[1]Geila       |10:11:33 | 25-10-2026| watch ep3: 4% (16.41/362.00s)
+[1]Geila       |10:11:39 | 25-10-2026| watch ep3: 6% (22.24/362.00s)
+[1]Geila       |10:11:45 | 25-10-2026| watch ep3: 7% (27.75/362.00s)
+[1]Geila       |10:11:52 | 25-10-2026| watch ep3: 9% (33.78/362.00s)
+[1]Geila       |10:11:58 | 25-10-2026| watch ep3: 10% (39.28/362.00s)
+[1]Geila       |10:12:05 | 25-10-2026| watch ep3: 12% (44.76/362.00s)
+[1]Geila       |10:12:11 | 25-10-2026| watch ep3: 14% (50.86/362.00s)
+[1]Geila       |10:12:17 | 25-10-2026| watch ep3: 15% (56.61/362.00s)
+[1]Geila       |10:12:23 | 25-10-2026| watch ep3: 17% (62.10/362.00s)
+[1]Geila       |10:12:30 | 25-10-2026| watch ep3: 18% (67.71/362.00s)
+[1]Geila       |10:12:36 | 25-10-2026| watch ep3: 20% (73.65/362.00s)
+[1]Geila       |10:12:42 | 25-10-2026| watch ep3: 21% (79.12/362.00s)
+[1]Geila       |10:12:48 | 25-10-2026| watch ep3: 23% (84.62/362.00s)
+[1]Geila       |10:12:54 | 25-10-2026| watch ep3: 24% (90.34/362.00s)
+[1]Geila       |10:13:01 | 25-10-2026| watch ep3: 26% (95.79/362.00s)
+[1]Geila       |10:13:07 | 25-10-2026| watch ep3: 28% (101.40/362.00s)
+[1]Geila       |10:13:13 | 25-10-2026| watch ep3: 29% (107.02/362.00s)
+[1]Geila       |10:13:19 | 25-10-2026| watch ep3: 31% (112.58/362.00s)
+[1]Geila       |10:13:25 | 25-10-2026| watch ep3: 32% (118.06/362.00s)
+[1]Geila       |10:13:31 | 25-10-2026| watch ep3: 34% (123.53/362.00s)
+[1]Geila       |10:13:37 | 25-10-2026| watch ep3: 35% (129.10/362.00s)
+[1]Geila       |10:13:44 | 25-10-2026| watch ep3: 37% (134.57/362.00s)
+[1]Geila       |10:13:50 | 25-10-2026| watch ep3: 38% (140.21/362.00s)
+[1]Geila       |10:13:57 | 25-10-2026| watch ep3: 40% (145.82/362.00s)
+[1]Geila       |10:14:03 | 25-10-2026| watch ep3: 41% (151.85/362.00s)
+[1]Geila       |10:14:09 | 25-10-2026| watch ep3: 43% (157.43/362.00s)
+[1]Geila       |10:14:15 | 25-10-2026| watch ep3: 45% (163.01/362.00s)
+[1]Geila       |10:14:21 | 25-10-2026| watch ep3: 46% (168.47/362.00s)
+[1]Geila       |10:14:27 | 25-10-2026| watch ep3: 48% (173.98/362.00s)
+[1]Geila       |10:14:33 | 25-10-2026| watch ep3: 49% (179.43/362.00s)
+[1]Geila       |10:14:40 | 25-10-2026| watch ep3: 51% (184.93/362.00s)
+[1]Geila       |10:14:46 | 25-10-2026| watch ep3: 52% (190.52/362.00s)
+[1]Geila       |10:14:52 | 25-10-2026| watch ep3: 54% (196.02/362.00s)
+[1]Geila       |10:14:58 | 25-10-2026| watch ep3: 55% (201.62/362.00s)
+[1]Geila       |10:15:04 | 25-10-2026| watch ep3: 57% (207.07/362.00s)
+[1]Geila       |10:15:11 | 25-10-2026| watch ep3: 58% (212.84/362.00s)
+[1]Geila       |10:15:17 | 25-10-2026| watch ep3: 60% (218.43/362.00s)
+[1]Geila       |10:15:23 | 25-10-2026| watch ep3: 61% (223.91/362.00s)
+[1]Geila       |10:15:29 | 25-10-2026| watch ep3: 63% (229.83/362.00s)
+[1]Geila       |10:15:35 | 25-10-2026| watch ep3: 65% (235.33/362.00s)
+[1]Geila       |10:15:42 | 25-10-2026| watch ep3: 66% (240.84/362.00s)
+[1]Geila       |10:15:48 | 25-10-2026| watch ep3: 68% (247.01/362.00s)
+[1]Geila       |10:15:55 | 25-10-2026| watch ep3: 69% (252.51/362.00s)
+[1]Geila       |10:16:01 | 25-10-2026| watch ep3: 71% (258.01/362.00s)
+[1]Geila       |10:16:07 | 25-10-2026| watch ep3: 72% (263.53/362.00s)
+[1]Geila       |10:16:13 | 25-10-2026| watch ep3: 74% (269.02/362.00s)
+[1]Geila       |10:16:19 | 25-10-2026| watch ep3: 75% (274.61/362.00s)
+[1]Geila       |10:16:26 | 25-10-2026| watch ep3: 77% (280.16/362.00s)
+[1]Geila       |10:16:32 | 25-10-2026| watch ep3: 78% (285.93/362.00s)
+[1]Geila       |10:16:38 | 25-10-2026| watch ep3: 80% (291.39/362.00s)
+[1]Geila       |10:16:44 | 25-10-2026| watch ep3: 82% (296.90/362.00s)
+[1]Geila       |10:16:51 | 25-10-2026| watch ep3: 83% (302.39/362.00s)
+[1]Geila       |10:16:57 | 25-10-2026| watch ep3: 85% (308.44/362.00s)
+[1]Geila       |10:17:03 | 25-10-2026| watch ep3: 86% (313.93/362.00s)
+[1]Geila       |10:17:09 | 25-10-2026| watch ep3: 88% (319.43/362.00s)
+[1]Geila       |10:17:16 | 25-10-2026| watch ep3: 89% (325.14/362.00s)
+[1]Geila       |10:17:22 | 25-10-2026| watch ep3: 91% (331.38/362.00s)
+[1]Geila       |10:17:22 | 25-10-2026| watch ep3: COMPLETED (331.38/362.00s)
+[1]Geila       |10:17:27 | 25-10-2026| watch [20/22] farming ep4...
+[1]Geila       |10:17:29 | 25-10-2026| watch ep4: 0% (0.00/353.00s)
+[1]Geila       |10:17:36 | 25-10-2026| watch ep4: 1% (5.25/353.00s)
+[1]Geila       |10:17:42 | 25-10-2026| watch ep4: 3% (11.10/353.00s)
+[1]Geila       |10:17:49 | 25-10-2026| watch ep4: 4% (17.05/353.00s)
+[1]Geila       |10:17:55 | 25-10-2026| watch ep4: 6% (22.56/353.00s)
+[1]Geila       |10:18:01 | 25-10-2026| watch ep4: 7% (28.10/353.00s)
+[1]Geila       |10:18:07 | 25-10-2026| watch ep4: 9% (33.57/353.00s)
+[1]Geila       |10:18:14 | 25-10-2026| watch ep4: 11% (39.45/353.00s)
+[1]Geila       |10:18:21 | 25-10-2026| watch ep4: 12% (45.80/353.00s)
+[1]Geila       |10:18:27 | 25-10-2026| watch ep4: 14% (51.38/353.00s)
+[1]Geila       |10:18:33 | 25-10-2026| watch ep4: 16% (56.89/353.00s)
+[1]Geila       |10:18:39 | 25-10-2026| watch ep4: 17% (62.38/353.00s)
+[1]Geila       |10:18:46 | 25-10-2026| watch ep4: 19% (67.84/353.00s)
+[1]Geila       |10:18:52 | 25-10-2026| watch ep4: 21% (74.30/353.00s)
+[1]Geila       |10:18:59 | 25-10-2026| watch ep4: 22% (80.03/353.00s)
+[1]Geila       |10:19:05 | 25-10-2026| watch ep4: 24% (85.52/353.00s)
+[1]Geila       |10:19:11 | 25-10-2026| watch ep4: 25% (91.36/353.00s)
+[1]Geila       |10:19:18 | 25-10-2026| watch ep4: 27% (97.06/353.00s)
+[1]Geila       |10:19:24 | 25-10-2026| watch ep4: 29% (102.74/353.00s)
+[1]Geila       |10:19:30 | 25-10-2026| watch ep4: 30% (108.37/353.00s)
+[1]Geila       |10:19:36 | 25-10-2026| watch ep4: 32% (113.86/353.00s)
+[1]Geila       |10:19:42 | 25-10-2026| watch ep4: 33% (119.32/353.00s)
+[1]Geila       |10:19:49 | 25-10-2026| watch ep4: 35% (125.04/353.00s)
+[1]Geila       |10:19:55 | 25-10-2026| watch ep4: 36% (130.52/353.00s)
+[1]Geila       |10:20:01 | 25-10-2026| watch ep4: 38% (135.97/353.00s)
+[1]Geila       |10:20:07 | 25-10-2026| watch ep4: 40% (141.88/353.00s)
+[1]Geila       |10:20:13 | 25-10-2026| watch ep4: 41% (147.43/353.00s)
+[1]Geila       |10:20:20 | 25-10-2026| watch ep4: 43% (152.92/353.00s)
+[1]Geila       |10:20:26 | 25-10-2026| watch ep4: 44% (158.41/353.00s)
+[1]Geila       |10:20:32 | 25-10-2026| watch ep4: 46% (164.05/353.00s)
+[1]Geila       |10:20:39 | 25-10-2026| watch ep4: 48% (170.06/353.00s)
+[1]Geila       |10:20:45 | 25-10-2026| watch ep4: 49% (175.60/353.00s)
+[1]Geila       |10:20:51 | 25-10-2026| watch ep4: 51% (181.12/353.00s)
+[1]Geila       |10:20:57 | 25-10-2026| watch ep4: 52% (186.74/353.00s)
+[1]Geila       |10:21:03 | 25-10-2026| watch ep4: 54% (192.23/353.00s)
+[1]Geila       |10:21:10 | 25-10-2026| watch ep4: 56% (197.75/353.00s)
+[1]Geila       |10:21:16 | 25-10-2026| watch ep4: 57% (203.85/353.00s)
+[1]Geila       |10:21:22 | 25-10-2026| watch ep4: 59% (209.55/353.00s)
+[1]Geila       |10:21:29 | 25-10-2026| watch ep4: 60% (215.05/353.00s)
+[1]Geila       |10:21:35 | 25-10-2026| watch ep4: 62% (220.71/353.00s)
+[1]Geila       |10:21:41 | 25-10-2026| watch ep4: 64% (226.21/353.00s)
+[1]Geila       |10:21:48 | 25-10-2026| watch ep4: 65% (232.18/353.00s)
+[1]Geila       |10:21:54 | 25-10-2026| watch ep4: 67% (237.64/353.00s)
+[1]Geila       |10:22:00 | 25-10-2026| watch ep4: 68% (243.11/353.00s)
+[1]Geila       |10:22:06 | 25-10-2026| watch ep4: 70% (248.58/353.00s)
+[1]Geila       |10:22:12 | 25-10-2026| watch ep4: 71% (254.10/353.00s)
+[1]Geila       |10:22:18 | 25-10-2026| watch ep4: 73% (259.86/353.00s)
+[1]Geila       |10:22:24 | 25-10-2026| watch ep4: 75% (265.34/353.00s)
+[1]Geila       |10:22:31 | 25-10-2026| watch ep4: 76% (270.84/353.00s)
+[1]Geila       |10:22:37 | 25-10-2026| watch ep4: 78% (276.94/353.00s)
+[1]Geila       |10:22:43 | 25-10-2026| watch ep4: 80% (282.50/353.00s)
+[1]Geila       |10:22:50 | 25-10-2026| watch ep4: 81% (287.97/353.00s)
+[1]Geila       |10:22:56 | 25-10-2026| watch ep4: 83% (293.46/353.00s)
+[1]Geila       |10:23:02 | 25-10-2026| watch ep4: 84% (299.46/353.00s)
+[1]Geila       |10:23:08 | 25-10-2026| watch ep4: 86% (304.94/353.00s)
+[1]Geila       |10:23:15 | 25-10-2026| watch ep4: 87% (310.46/353.00s)
+[1]Geila       |10:23:21 | 25-10-2026| watch ep4: 89% (316.05/353.00s)
+[1]Geila       |10:23:27 | 25-10-2026| watch ep4: 91% (321.49/353.00s)
+[1]Geila       |10:23:27 | 25-10-2026| watch ep4: COMPLETED (321.49/353.00s)
+[1]Geila       |10:23:32 | 25-10-2026| watch [21/22] farming ep5...
+[1]Geila       |10:23:34 | 25-10-2026| watch ep5: 0% (0.00/396.00s)
+[1]Geila       |10:23:40 | 25-10-2026| watch ep5: 1% (5.20/396.00s)
+[1]Geila       |10:23:46 | 25-10-2026| watch ep5: 2% (10.70/396.00s)
+[1]Geila       |10:23:52 | 25-10-2026| watch ep5: 4% (16.18/396.00s)
+[1]Geila       |10:23:58 | 25-10-2026| watch ep5: 5% (22.02/396.00s)
+[1]Geila       |10:24:05 | 25-10-2026| watch ep5: 6% (27.52/396.00s)
+[1]Geila       |10:24:11 | 25-10-2026| watch ep5: 8% (33.06/396.00s)
+[1]Geila       |10:24:17 | 25-10-2026| watch ep5: 9% (38.57/396.00s)
+[1]Geila       |10:24:23 | 25-10-2026| watch ep5: 11% (44.21/396.00s)
+[1]Geila       |10:24:29 | 25-10-2026| watch ep5: 12% (49.87/396.00s)
+[1]Geila       |10:24:36 | 25-10-2026| watch ep5: 13% (55.42/396.00s)
+[1]Geila       |10:24:43 | 25-10-2026| watch ep5: 15% (61.20/396.00s)
+[1]Geila       |10:24:49 | 25-10-2026| watch ep5: 17% (67.49/396.00s)
+[1]Geila       |10:24:55 | 25-10-2026| watch ep5: 18% (73.14/396.00s)
+[1]Geila       |10:25:02 | 25-10-2026| watch ep5: 19% (78.62/396.00s)
+[1]Geila       |10:25:08 | 25-10-2026| watch ep5: 21% (84.36/396.00s)
+[1]Geila       |10:25:14 | 25-10-2026| watch ep5: 22% (89.99/396.00s)
+[1]Geila       |10:25:20 | 25-10-2026| watch ep5: 24% (95.46/396.00s)
+[1]Geila       |10:25:26 | 25-10-2026| watch ep5: 25% (101.16/396.00s)
+[1]Geila       |10:25:32 | 25-10-2026| watch ep5: 26% (106.63/396.00s)
+[1]Geila       |10:25:39 | 25-10-2026| watch ep5: 28% (112.15/396.00s)
+[1]Geila       |10:25:45 | 25-10-2026| watch ep5: 29% (117.76/396.00s)
+[1]Geila       |10:25:51 | 25-10-2026| watch ep5: 31% (123.44/396.00s)
+[1]Geila       |10:25:57 | 25-10-2026| watch ep5: 32% (129.12/396.00s)
+[1]Geila       |10:26:04 | 25-10-2026| watch ep5: 33% (134.61/396.00s)
+[1]Geila       |10:26:10 | 25-10-2026| watch ep5: 35% (140.27/396.00s)
+[1]Geila       |10:26:16 | 25-10-2026| watch ep5: 36% (145.93/396.00s)
+[1]Geila       |10:26:22 | 25-10-2026| watch ep5: 38% (151.63/396.00s)
+[1]Geila       |10:26:29 | 25-10-2026| watch ep5: 39% (157.15/396.00s)
+[1]Geila       |10:26:35 | 25-10-2026| watch ep5: 41% (162.84/396.00s)
+[1]Geila       |10:26:42 | 25-10-2026| watch ep5: 42% (168.56/396.00s)
+[1]Geila       |10:26:48 | 25-10-2026| watch ep5: 44% (174.45/396.00s)
+[1]Geila       |10:26:54 | 25-10-2026| watch ep5: 45% (180.03/396.00s)
+[1]Geila       |10:27:00 | 25-10-2026| watch ep5: 46% (185.50/396.00s)
+[1]Geila       |10:27:06 | 25-10-2026| watch ep5: 48% (190.94/396.00s)
+[1]Geila       |10:27:12 | 25-10-2026| watch ep5: 49% (196.45/396.00s)
+[1]Geila       |10:27:18 | 25-10-2026| watch ep5: 51% (202.12/396.00s)
+[1]Geila       |10:27:25 | 25-10-2026| watch ep5: 52% (207.62/396.00s)
+[1]Geila       |10:27:31 | 25-10-2026| watch ep5: 53% (213.14/396.00s)
+[1]Geila       |10:27:37 | 25-10-2026| watch ep5: 55% (219.20/396.00s)
+[1]Geila       |10:27:44 | 25-10-2026| watch ep5: 56% (224.69/396.00s)
+[1]Geila       |10:27:50 | 25-10-2026| watch ep5: 58% (230.31/396.00s)
+[1]Geila       |10:27:56 | 25-10-2026| watch ep5: 59% (235.78/396.00s)
+[1]Geila       |10:28:02 | 25-10-2026| watch ep5: 60% (241.36/396.00s)
+[1]Geila       |10:28:09 | 25-10-2026| watch ep5: 62% (247.12/396.00s)
+[1]Geila       |10:28:15 | 25-10-2026| watch ep5: 63% (252.96/396.00s)
+[1]Geila       |10:28:21 | 25-10-2026| watch ep5: 65% (258.46/396.00s)
+[1]Geila       |10:28:27 | 25-10-2026| watch ep5: 66% (263.99/396.00s)
+[1]Geila       |10:28:33 | 25-10-2026| watch ep5: 68% (269.47/396.00s)
+[1]Geila       |10:28:40 | 25-10-2026| watch ep5: 69% (274.99/396.00s)
+[1]Geila       |10:28:47 | 25-10-2026| watch ep5: 71% (281.38/396.00s)
+[1]Geila       |10:28:53 | 25-10-2026| watch ep5: 72% (287.18/396.00s)
+[1]Geila       |10:29:00 | 25-10-2026| watch ep5: 73% (292.92/396.00s)
+[1]Geila       |10:29:07 | 25-10-2026| watch ep5: 75% (298.81/396.00s)
+[1]Geila       |10:29:13 | 25-10-2026| watch ep5: 77% (304.96/396.00s)
+[1]Geila       |10:29:19 | 25-10-2026| watch ep5: 78% (310.76/396.00s)
+[1]Geila       |10:29:26 | 25-10-2026| watch ep5: 79% (316.51/396.00s)
+[1]Geila       |10:29:32 | 25-10-2026| watch ep5: 81% (321.97/396.00s)
+[1]Geila       |10:29:38 | 25-10-2026| watch ep5: 82% (327.49/396.00s)
+[1]Geila       |10:29:45 | 25-10-2026| watch ep5: 84% (333.60/396.00s)
+[1]Geila       |10:29:51 | 25-10-2026| watch ep5: 85% (339.11/396.00s)
+[1]Geila       |10:29:57 | 25-10-2026| watch ep5: 87% (344.73/396.00s)
+[1]Geila       |10:30:03 | 25-10-2026| watch ep5: 88% (350.45/396.00s)
+[1]Geila       |10:30:09 | 25-10-2026| watch ep5: 89% (355.96/396.00s)
+[1]Geila       |10:30:16 | 25-10-2026| watch ep5: 91% (361.47/396.00s)
+[1]Geila       |10:30:16 | 25-10-2026| watch ep5: COMPLETED (361.47/396.00s)
+[1]Geila       |10:30:21 | 25-10-2026| watch [22/22] farming ep6...
+[1]Geila       |10:30:23 | 25-10-2026| watch ep6: 0% (0.00/404.00s)
+[1]Geila       |10:30:30 | 25-10-2026| watch ep6: 1% (5.57/404.00s)
+[1]Geila       |10:30:36 | 25-10-2026| watch ep6: 2% (11.55/404.00s)
+[1]Geila       |10:30:42 | 25-10-2026| watch ep6: 4% (17.10/404.00s)
+[1]Geila       |10:30:48 | 25-10-2026| watch ep6: 5% (22.58/404.00s)
+[1]Geila       |10:30:55 | 25-10-2026| watch ep6: 6% (28.05/404.00s)
+[1]Geila       |10:31:01 | 25-10-2026| watch ep6: 8% (33.90/404.00s)
+[1]Geila       |10:31:08 | 25-10-2026| watch ep6: 9% (39.53/404.00s)
+[1]Geila       |10:31:14 | 25-10-2026| watch ep6: 11% (45.36/404.00s)
+[1]Geila       |10:31:20 | 25-10-2026| watch ep6: 12% (50.84/404.00s)
+[1]Geila       |10:31:26 | 25-10-2026| watch ep6: 13% (56.32/404.00s)
+[1]Geila       |10:31:32 | 25-10-2026| watch ep6: 15% (61.96/404.00s)
+[1]Geila       |10:31:39 | 25-10-2026| watch ep6: 16% (67.45/404.00s)
+[1]Geila       |10:31:45 | 25-10-2026| watch ep6: 18% (73.38/404.00s)
+[1]Geila       |10:31:52 | 25-10-2026| watch ep6: 19% (79.14/404.00s)
+[1]Geila       |10:31:58 | 25-10-2026| watch ep6: 21% (85.00/404.00s)
+[1]Geila       |10:32:04 | 25-10-2026| watch ep6: 22% (90.56/404.00s)
+[1]Geila       |10:32:11 | 25-10-2026| watch ep6: 23% (96.15/404.00s)
+[1]Geila       |10:32:17 | 25-10-2026| watch ep6: 25% (102.09/404.00s)
+[1]Geila       |10:32:23 | 25-10-2026| watch ep6: 26% (107.83/404.00s)
+[1]Geila       |10:32:30 | 25-10-2026| watch ep6: 28% (113.37/404.00s)
+[1]Geila       |10:32:37 | 25-10-2026| watch ep6: 29% (119.40/404.00s)
+[1]Geila       |10:32:43 | 25-10-2026| watch ep6: 31% (126.02/404.00s)
+[1]Geila       |10:32:49 | 25-10-2026| watch ep6: 32% (131.51/404.00s)
+[1]Geila       |10:32:55 | 25-10-2026| watch ep6: 33% (137.03/404.00s)
+[1]Geila       |10:33:02 | 25-10-2026| watch ep6: 35% (142.46/404.00s)
+[1]Geila       |10:33:08 | 25-10-2026| watch ep6: 36% (148.21/404.00s)
+[1]Geila       |10:33:14 | 25-10-2026| watch ep6: 38% (153.86/404.00s)
+[1]Geila       |10:33:20 | 25-10-2026| watch ep6: 39% (159.37/404.00s)
+[1]Geila       |10:33:26 | 25-10-2026| watch ep6: 40% (164.81/404.00s)
+[1]Geila       |10:33:33 | 25-10-2026| watch ep6: 42% (170.29/404.00s)
+[1]Geila       |10:33:39 | 25-10-2026| watch ep6: 43% (175.87/404.00s)
+[1]Geila       |10:33:45 | 25-10-2026| watch ep6: 44% (181.36/404.00s)
+[1]Geila       |10:33:51 | 25-10-2026| watch ep6: 46% (186.89/404.00s)
+[1]Geila       |10:33:57 | 25-10-2026| watch ep6: 47% (192.52/404.00s)
+[1]Geila       |10:34:04 | 25-10-2026| watch ep6: 49% (198.21/404.00s)
+[1]Geila       |10:34:10 | 25-10-2026| watch ep6: 50% (203.67/404.00s)
+[1]Geila       |10:34:17 | 25-10-2026| watch ep6: 51% (209.73/404.00s)
+[1]Geila       |10:34:23 | 25-10-2026| watch ep6: 53% (215.43/404.00s)
+[1]Geila       |10:34:29 | 25-10-2026| watch ep6: 54% (220.91/404.00s)
+[1]Geila       |10:34:35 | 25-10-2026| watch ep6: 56% (226.66/404.00s)
+[1]Geila       |10:34:42 | 25-10-2026| watch ep6: 57% (232.34/404.00s)
+[1]Geila       |10:34:48 | 25-10-2026| watch ep6: 59% (238.47/404.00s)
+[1]Geila       |10:34:55 | 25-10-2026| watch ep6: 60% (244.14/404.00s)
+[1]Geila       |10:35:01 | 25-10-2026| watch ep6: 61% (249.71/404.00s)
+[1]Geila       |10:35:07 | 25-10-2026| watch ep6: 63% (255.45/404.00s)
+[1]Geila       |10:35:14 | 25-10-2026| watch ep6: 64% (261.20/404.00s)
+[1]Geila       |10:35:20 | 25-10-2026| watch ep6: 66% (266.72/404.00s)
+[1]Geila       |10:35:26 | 25-10-2026| watch ep6: 67% (272.39/404.00s)
+[1]Geila       |10:35:32 | 25-10-2026| watch ep6: 68% (277.89/404.00s)
+[1]Geila       |10:35:38 | 25-10-2026| watch ep6: 70% (283.36/404.00s)
+[1]Geila       |10:35:44 | 25-10-2026| watch ep6: 71% (288.91/404.00s)
+[1]Geila       |10:35:51 | 25-10-2026| watch ep6: 72% (294.52/404.00s)
+[1]Geila       |10:35:57 | 25-10-2026| watch ep6: 74% (299.99/404.00s)
+[1]Geila       |10:36:03 | 25-10-2026| watch ep6: 75% (305.66/404.00s)
+[1]Geila       |10:36:11 | 25-10-2026| watch ep6: 77% (311.19/404.00s)
+[1]Geila       |10:36:17 | 25-10-2026| watch ep6: 78% (317.90/404.00s)
+[1]Geila       |10:36:23 | 25-10-2026| watch ep6: 80% (323.59/404.00s)
+[1]Geila       |10:36:29 | 25-10-2026| watch ep6: 81% (329.07/404.00s)
+[1]Geila       |10:36:35 | 25-10-2026| watch ep6: 82% (334.59/404.00s)
+[1]Geila       |10:36:41 | 25-10-2026| watch ep6: 84% (340.21/404.00s)
+[1]Geila       |10:36:48 | 25-10-2026| watch ep6: 85% (345.73/404.00s)
+[1]Geila       |10:36:54 | 25-10-2026| watch ep6: 86% (351.38/404.00s)
+[1]Geila       |10:37:00 | 25-10-2026| watch ep6: 88% (356.95/404.00s)
+[1]Geila       |10:37:06 | 25-10-2026| watch ep6: 89% (362.56/404.00s)
+[1]Geila       |10:37:12 | 25-10-2026| watch ep6: 91% (368.11/404.00s)
+[1]Geila       |10:37:12 | 25-10-2026| watch ep6: COMPLETED (368.11/404.00s)
+--> [1]Geila menjalankan: Read Article
+[1]Geila       |10:37:14 | 25-10-2026| news: 0/30 artikel selesai dibaca
+[1]Geila       |10:37:15 | 25-10-2026| mint eligibility: {"userId":"1888331059626119168","wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"aut
+[1]Geila       |10:37:21 | 25-10-2026| news [1/30] road-to-mint-2026-10: OK completed=1
+[1]Geila       |10:37:30 | 25-10-2026| news [2/30] community-first-update-2026-10: OK completed=2
+[1]Geila       |10:37:39 | 25-10-2026| news [3/30] oshi-nft-price-and-basic-income-01: OK completed=3
+[1]Geila       |10:37:47 | 25-10-2026| news [4/30] smart-pocket-800000-battles: OK completed=4
+[1]Geila       |10:37:55 | 25-10-2026| news [5/30] 100-friends-connected-by-what-we-love: OK completed=5
+[1]Geila       |10:38:04 | 25-10-2026| news [6/30] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=6
+[1]Geila       |10:38:12 | 25-10-2026| news [7/30] oshi-clash-100000-battles: OK completed=7
+[1]Geila       |10:38:20 | 25-10-2026| news [8/30] whitepaper-v2-2: OK completed=8
+[1]Geila       |10:38:29 | 25-10-2026| news [9/30] smart-pocket-referral-rewards: OK completed=9
+[1]Geila       |10:38:38 | 25-10-2026| news [10/30] spaceship-and-studio-friends: OK completed=10
+[1]Geila       |10:38:47 | 25-10-2026| news [11/30] swap-arena-stars-guide: OK completed=11
+[1]Geila       |10:38:57 | 25-10-2026| news [12/30] kagura-airdrop-guide: OK completed=12
+[1]Geila       |10:39:06 | 25-10-2026| news [13/30] oshi-clash-complete-guide: OK completed=13
+[1]Geila       |10:39:14 | 25-10-2026| news [14/30] oshi-clash-launch: OK completed=14
+[1]Geila       |10:39:23 | 25-10-2026| news [15/30] smart-pocket-monthly-2026-09: OK completed=15
+[1]Geila       |10:39:31 | 25-10-2026| news [16/30] oshi-labs-monthly-2026-09: OK completed=16
+[1]Geila       |10:39:40 | 25-10-2026| news [17/30] oshi-news-launch: OK completed=17
+[1]Geila       |10:39:49 | 25-10-2026| news [18/30] yuki-character-design: OK completed=18
+[1]Geila       |10:39:57 | 25-10-2026| news [19/30] smart-pocket-mobile-apps: OK completed=19
+[1]Geila       |10:40:05 | 25-10-2026| news [20/30] smart-pocket-read-a-card: OK completed=20
+[1]Geila       |10:40:15 | 25-10-2026| news [21/30] start-your-fan-creation: OK completed=21
+[1]Geila       |10:40:23 | 25-10-2026| news [22/30] complete-your-first-task: OK completed=22
+[1]Geila       |10:40:32 | 25-10-2026| news [23/30] understand-the-rankings: OK completed=23
+[1]Geila       |10:40:41 | 25-10-2026| news [24/30] unlock-and-save-icons: OK completed=24
+[1]Geila       |10:40:50 | 25-10-2026| news [25/30] start-here: OK completed=25
+[1]Geila       |10:40:59 | 25-10-2026| news [26/30] what-is-free-mint: OK completed=26
+[1]Geila       |10:41:07 | 25-10-2026| news [27/30] what-is-nft: OK completed=27
+[1]Geila       |10:41:16 | 25-10-2026| news [28/30] prepare-your-wallet: OK completed=28
+[1]Geila       |10:41:25 | 25-10-2026| news [29/30] find-your-anime: OK completed=29
+[1]Geila       |10:41:34 | 25-10-2026| news [30/30] smart-pocket-first-steps: OK completed=30
+--> [1]Geila menjalankan: Quiz Anime
+--> [1]Geila menjalankan: Music Missions (realtime, bisa lama!)
+[1]Geila       |10:41:41 | 25-10-2026| music memutar "この手は覚えてる" (94s)...
+[1]Geila       |10:41:52 | 25-10-2026| music "この手は覚えてる": 9% (9.0054/94s)
+[1]Geila       |10:42:03 | 25-10-2026| music "この手は覚えてる": 20% (19.0224/94s)
+[1]Geila       |10:42:15 | 25-10-2026| music "この手は覚えてる": 30% (29.108700000000002/94s)
+[1]Geila       |10:42:27 | 25-10-2026| music "この手は覚えてる": 42% (39.9699/94s)
+[1]Geila       |10:42:38 | 25-10-2026| music "この手は覚えてる": 53% (50.2884/94s)
+[1]Geila       |10:42:49 | 25-10-2026| music "この手は覚えてる": 64% (60.2838/94s)
+[1]Geila       |10:43:00 | 25-10-2026| music "この手は覚えてる": 74% (70.3404/94s)
+[1]Geila       |10:43:11 | 25-10-2026| music "この手は覚えてる": 85% (80.334/94s)
+[1]Geila       |10:43:12 | 25-10-2026| music "この手は覚えてる": selesai 80.334s
+[1]Geila       |10:43:15 | 25-10-2026| music memutar "キャンバス" (125s)...
+[1]Geila       |10:43:26 | 25-10-2026| music "キャンバス": 7% (9.0054/125s)
+[1]Geila       |10:43:37 | 25-10-2026| music "キャンバス": 15% (19.398600000000002/125s)
+[1]Geila       |10:43:49 | 25-10-2026| music "キャンバス": 23% (29.574/125s)
+[1]Geila       |10:44:00 | 25-10-2026| music "キャンバス": 31% (39.545100000000005/125s)
+[1]Geila       |10:44:11 | 25-10-2026| music "キャンバス": 39% (49.779/125s)
+[1]Geila       |10:44:23 | 25-10-2026| music "キャンバス": 47% (59.9157/125s)
+[1]Geila       |10:44:34 | 25-10-2026| music "キャンバス": 56% (70.3665/125s)
+[1]Geila       |10:44:45 | 25-10-2026| music "キャンバス": 64% (80.68050000000001/125s)
+[1]Geila       |10:44:57 | 25-10-2026| music "キャンバス": 72% (90.7074/125s)
+[1]Geila       |10:45:09 | 25-10-2026| music "キャンバス": 81% (101.3382/125s)
+[1]Geila       |10:45:09 | 25-10-2026| music "キャンバス": selesai 101.3382s
+[1]Geila       |10:45:12 | 25-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Geila       |10:45:24 | 25-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
+[1]Geila       |10:45:35 | 25-10-2026| music "ゆっくり帰ろう": 12% (19.0908/153s)
+[1]Geila       |10:45:47 | 25-10-2026| music "ゆっくり帰ろう": 19% (29.3958/153s)
+[1]Geila       |10:45:58 | 25-10-2026| music "ゆっくり帰ろう": 26% (40.2003/153s)
+[1]Geila       |10:46:09 | 25-10-2026| music "ゆっくり帰ろう": 32% (50.2209/153s)
+[1]Geila       |10:46:23 | 25-10-2026| music "ゆっくり帰ろう": 39% (60.2586/153s)
+[1]Geila       |10:46:35 | 25-10-2026| music "ゆっくり帰ろう": 47% (72.801/153s)
+[1]Geila       |10:46:46 | 25-10-2026| music "ゆっくり帰ろう": 54% (82.9971/153s)
+[1]Geila       |10:46:57 | 25-10-2026| music "ゆっくり帰ろう": 60% (93.1041/153s)
+[1]Geila       |10:47:09 | 25-10-2026| music "ゆっくり帰ろう": 67% (103.0797/153s)
+[1]Geila       |10:47:20 | 25-10-2026| music "ゆっくり帰ろう": 74% (113.6358/153s)
+[1]Geila       |10:47:31 | 25-10-2026| music "ゆっくり帰ろう": 80% (123.6384/153s)
+[1]Geila       |10:47:32 | 25-10-2026| music "ゆっくり帰ろう": selesai 123.6384s
+[1]Geila       |10:47:35 | 25-10-2026| music memutar "うたかた" (185s)...
+[1]Geila       |10:47:46 | 25-10-2026| music "うたかた": 4% (9.0063/185s)
+[1]Geila       |10:47:57 | 25-10-2026| music "うたかた": 10% (19.1574/185s)
+[1]Geila       |10:48:09 | 25-10-2026| music "うたかた": 15% (29.1627/185s)
+[1]Geila       |10:48:21 | 25-10-2026| music "うたかた": 21% (39.847500000000004/185s)
+[1]Geila       |10:48:32 | 25-10-2026| music "うたかた": 27% (50.101200000000006/185s)
+[1]Geila       |10:48:43 | 25-10-2026| music "うたかた": 32% (60.09660000000001/185s)
+[1]Geila       |10:48:55 | 25-10-2026| music "うたかた": 38% (70.56810000000002/185s)
+[1]Geila       |10:49:06 | 25-10-2026| music "うたかた": 43% (80.77500000000002/185s)
+[1]Geila       |10:49:17 | 25-10-2026| music "うたかた": 49% (90.74880000000002/185s)
+[1]Geila       |10:49:28 | 25-10-2026| music "うたかた": 54% (100.68570000000003/185s)
+[1]Geila       |10:49:39 | 25-10-2026| music "うたかた": 59% (110.66670000000002/185s)
+[1]Geila       |10:49:51 | 25-10-2026| music "うたかた": 65% (120.68640000000002/185s)
+[1]Geila       |10:50:02 | 25-10-2026| music "うたかた": 70% (131.20650000000003/185s)
+[1]Geila       |10:50:14 | 25-10-2026| music "うたかた": 76% (141.83280000000002/185s)
+[1]Geila       |10:50:25 | 25-10-2026| music "うたかた": 82% (151.80300000000003/185s)
+[1]Geila       |10:50:25 | 25-10-2026| music "うたかた": selesai 151.80300000000003s
+[1]Geila       |10:50:28 | 25-10-2026| music memutar "ぬくもり" (188s)...
+[1]Geila       |10:50:40 | 25-10-2026| music "ぬくもり": 4% (9.0054/188s)
+[1]Geila       |10:50:51 | 25-10-2026| music "ぬくもり": 10% (19.4022/188s)
+[1]Geila       |10:51:02 | 25-10-2026| music "ぬくもり": 15% (29.376/188s)
+[1]Geila       |10:51:14 | 25-10-2026| music "ぬくもり": 20% (39.375/188s)
+[1]Geila       |10:51:25 | 25-10-2026| music "ぬくもり": 26% (49.9824/188s)
+[1]Geila       |10:51:36 | 25-10-2026| music "ぬくもり": 31% (59.9895/188s)
+[1]Geila       |10:51:47 | 25-10-2026| music "ぬくもり": 37% (70.029/188s)
+[1]Geila       |10:51:58 | 25-10-2026| music "ぬくもり": 42% (80.0208/188s)
+[1]Geila       |10:52:09 | 25-10-2026| music "ぬくもり": 47% (90.04589999999999/188s)
+[1]Geila       |10:52:21 | 25-10-2026| music "ぬくもり": 53% (100.1745/188s)
+[1]Geila       |10:52:32 | 25-10-2026| music "ぬくもり": 58% (110.3211/188s)
+[1]Geila       |10:52:43 | 25-10-2026| music "ぬくもり": 64% (120.7971/188s)
+[1]Geila       |10:52:56 | 25-10-2026| music "ぬくもり": 69% (130.7925/188s)
+[1]Geila       |10:53:07 | 25-10-2026| music "ぬくもり": 75% (141.7869/188s)
+[1]Geila       |10:53:18 | 25-10-2026| music "ぬくもり": 80% (151.8381/188s)
+[1]Geila       |10:53:18 | 25-10-2026| music "ぬくもり": selesai 151.8381s
+[1]Geila       |10:53:21 | 25-10-2026| music memutar "THE FINAL HIT" (204s)...
+[1]Geila       |10:53:33 | 25-10-2026| music "THE FINAL HIT": 4% (9.0054/204s)
+[1]Geila       |10:53:44 | 25-10-2026| music "THE FINAL HIT": 9% (19.5462/204s)
+[1]Geila       |10:53:55 | 25-10-2026| music "THE FINAL HIT": 14% (29.5155/204s)
+[1]Geila       |10:54:06 | 25-10-2026| music "THE FINAL HIT": 19% (39.5388/204s)
+[1]Geila       |10:54:17 | 25-10-2026| music "THE FINAL HIT": 24% (49.563900000000004/204s)
+[1]Geila       |10:54:29 | 25-10-2026| music "THE FINAL HIT": 29% (59.5557/204s)
+[1]Geila       |10:54:41 | 25-10-2026| music "THE FINAL HIT": 34% (70.0344/204s)
+[1]Geila       |10:54:52 | 25-10-2026| music "THE FINAL HIT": 39% (80.62740000000001/204s)
+[1]Geila       |10:55:03 | 25-10-2026| music "THE FINAL HIT": 44% (90.63090000000001/204s)
+[1]Geila       |10:55:14 | 25-10-2026| music "THE FINAL HIT": 49% (100.65690000000001/204s)
+[1]Geila       |10:55:25 | 25-10-2026| music "THE FINAL HIT": 54% (110.63430000000001/204s)
+[1]Geila       |10:55:37 | 25-10-2026| music "THE FINAL HIT": 59% (120.71700000000001/204s)
+[1]Geila       |10:55:48 | 25-10-2026| music "THE FINAL HIT": 64% (131.0472/204s)
+[1]Geila       |10:56:00 | 25-10-2026| music "THE FINAL HIT": 69% (141.2523/204s)
+[1]Geila       |10:56:12 | 25-10-2026| music "THE FINAL HIT": 74% (151.74269999999999/204s)
+[1]Geila       |10:56:23 | 25-10-2026| music "THE FINAL HIT": 79% (162.6246/204s)
+[1]Geila       |10:56:34 | 25-10-2026| music "THE FINAL HIT": 84% (172.7226/204s)
+[1]Geila       |10:56:35 | 25-10-2026| music "THE FINAL HIT": selesai 172.7226s
+[1]Geila       |10:56:37 | 25-10-2026| music memutar "桃色の頃" (213s)...
+[1]Geila       |10:56:49 | 25-10-2026| music "桃色の頃": 4% (9.0063/213s)
+[1]Geila       |10:57:00 | 25-10-2026| music "桃色の頃": 8% (19.089/213s)
+[1]Geila       |10:57:12 | 25-10-2026| music "桃色の頃": 13% (29.5722/213s)
+[1]Geila       |10:57:23 | 25-10-2026| music "桃色の頃": 18% (39.951/213s)
+[1]Geila       |10:57:35 | 25-10-2026| music "桃色の頃": 23% (50.0256/213s)
+[1]Geila       |10:57:46 | 25-10-2026| music "桃色の頃": 28% (60.584399999999995/213s)
+[1]Geila       |10:57:57 | 25-10-2026| music "桃色の頃": 33% (70.5384/213s)
+[1]Geila       |10:58:08 | 25-10-2026| music "桃色の頃": 37% (80.9001/213s)
+[1]Geila       |10:58:20 | 25-10-2026| music "桃色の頃": 42% (90.9999/213s)
+[1]Geila       |10:58:32 | 25-10-2026| music "桃色の頃": 47% (101.3553/213s)
+[1]Geila       |10:58:43 | 25-10-2026| music "桃色の頃": 52% (111.80969999999999/213s)
+[1]Geila       |10:58:55 | 25-10-2026| music "桃色の頃": 57% (121.98689999999999/213s)
+[1]Geila       |10:59:06 | 25-10-2026| music "桃色の頃": 62% (132.5412/213s)
+[1]Geila       |10:59:17 | 25-10-2026| music "桃色の頃": 66% (142.6185/213s)
+[1]Geila       |10:59:29 | 25-10-2026| music "桃色の頃": 71% (152.6157/213s)
+[1]Geila       |10:59:40 | 25-10-2026| music "桃色の頃": 76% (163.107/213s)
+[1]Geila       |10:59:51 | 25-10-2026| music "桃色の頃": 81% (173.115/213s)
+[1]Geila       |10:59:51 | 25-10-2026| music "桃色の頃": selesai 173.115s
+[1]Geila       |10:59:54 | 25-10-2026| music memutar "記憶の名前" (224s)...
+[1]Geila       |11:00:06 | 25-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Geila       |11:00:17 | 25-10-2026| music "記憶の名前": 8% (19.4166/224s)
+[1]Geila       |11:00:28 | 25-10-2026| music "記憶の名前": 13% (29.5623/224s)
+[1]Geila       |11:00:39 | 25-10-2026| music "記憶の名前": 17% (39.6126/224s)
+[1]Geila       |11:00:50 | 25-10-2026| music "記憶の名前": 22% (49.6098/224s)
+[1]Geila       |11:01:02 | 25-10-2026| music "記憶の名前": 26% (59.5818/224s)
+[1]Geila       |11:01:13 | 25-10-2026| music "記憶の名前": 31% (70.01820000000001/224s)
+[1]Geila       |11:01:25 | 25-10-2026| music "記憶の名前": 35% (80.0712/224s)
+[1]Geila       |11:01:36 | 25-10-2026| music "記憶の名前": 40% (90.7155/224s)
+[1]Geila       |11:01:47 | 25-10-2026| music "記憶の名前": 44% (100.71270000000001/224s)
+[1]Geila       |11:01:58 | 25-10-2026| music "記憶の名前": 49% (110.68830000000001/224s)
+[1]Geila       |11:02:10 | 25-10-2026| music "記憶の名前": 53% (120.69630000000001/224s)
+[1]Geila       |11:02:21 | 25-10-2026| music "記憶の名前": 58% (131.0292/224s)
+[1]Geila       |11:02:32 | 25-10-2026| music "記憶の名前": 62% (141.0165/224s)
+[1]Geila       |11:02:43 | 25-10-2026| music "記憶の名前": 67% (151.3728/224s)
+[1]Geila       |11:02:55 | 25-10-2026| music "記憶の名前": 72% (161.3718/224s)
+[1]Geila       |11:03:06 | 25-10-2026| music "記憶の名前": 76% (171.6534/224s)
+[1]Geila       |11:03:17 | 25-10-2026| music "記憶の名前": 81% (181.6542/224s)
+[1]Geila       |11:03:17 | 25-10-2026| music "記憶の名前": selesai 181.6542s
+[1]Geila       |11:03:20 | 25-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Geila       |11:03:32 | 25-10-2026| music "Smart Pocket": 3% (9.0054/232s)
+[1]Geila       |11:03:44 | 25-10-2026| music "Smart Pocket": 8% (19.862099999999998/232s)
+[1]Geila       |11:03:55 | 25-10-2026| music "Smart Pocket": 13% (30.1995/232s)
+[1]Geila       |11:04:06 | 25-10-2026| music "Smart Pocket": 17% (40.1787/232s)
+[1]Geila       |11:04:17 | 25-10-2026| music "Smart Pocket": 21% (50.1444/232s)
+[1]Geila       |11:04:28 | 25-10-2026| music "Smart Pocket": 25% (60.3108/232s)
+[1]Geila       |11:04:39 | 25-10-2026| music "Smart Pocket": 30% (70.3539/232s)
+[1]Geila       |11:04:51 | 25-10-2026| music "Smart Pocket": 34% (80.3484/232s)
+[1]Geila       |11:05:02 | 25-10-2026| music "Smart Pocket": 39% (91.0467/232s)
+[1]Geila       |11:05:14 | 25-10-2026| music "Smart Pocket": 43% (101.0718/232s)
+[1]Geila       |11:05:25 | 25-10-2026| music "Smart Pocket": 47% (111.0663/232s)
+[1]Geila       |11:05:36 | 25-10-2026| music "Smart Pocket": 52% (121.1724/232s)
+[1]Geila       |11:05:48 | 25-10-2026| music "Smart Pocket": 56% (131.5494/232s)
+[1]Geila       |11:06:00 | 25-10-2026| music "Smart Pocket": 61% (141.9957/232s)
+[1]Geila       |11:06:11 | 25-10-2026| music "Smart Pocket": 65% (152.4213/232s)
+[1]Geila       |11:06:23 | 25-10-2026| music "Smart Pocket": 70% (162.5985/232s)
+[1]Geila       |11:06:34 | 25-10-2026| music "Smart Pocket": 74% (173.7045/232s)
+[1]Geila       |11:06:46 | 25-10-2026| music "Smart Pocket": 79% (183.7413/232s)
+[1]Geila       |11:06:57 | 25-10-2026| music "Smart Pocket": 83% (193.8816/232s)
+[1]Geila       |11:06:58 | 25-10-2026| music "Smart Pocket": selesai 193.8816s
+[1]Geila       |11:07:01 | 25-10-2026| music memutar "神様みたいに" (254s)...
+[1]Geila       |11:07:12 | 25-10-2026| music "神様みたいに": 3% (9.0054/254s)
+[1]Geila       |11:07:23 | 25-10-2026| music "神様みたいに": 7% (19.1475/254s)
+[1]Geila       |11:07:35 | 25-10-2026| music "神様みたいに": 11% (29.2446/254s)
+[1]Geila       |11:07:46 | 25-10-2026| music "神様みたいに": 15% (39.8583/254s)
+[1]Geila       |11:07:58 | 25-10-2026| music "神様みたいに": 19% (50.1399/254s)
+[1]Geila       |11:08:09 | 25-10-2026| music "神様みたいに": 23% (60.1794/254s)
+[1]Geila       |11:08:20 | 25-10-2026| music "神様みたいに": 27% (70.2018/254s)
+[1]Geila       |11:08:31 | 25-10-2026| music "神様みたいに": 31% (80.5284/254s)
+[1]Geila       |11:08:43 | 25-10-2026| music "神様みたいに": 35% (90.54090000000001/254s)
+[1]Geila       |11:08:54 | 25-10-2026| music "神様みたいに": 39% (100.57410000000002/254s)
+[1]Geila       |11:09:05 | 25-10-2026| music "神様みたいに": 43% (111.09600000000002/254s)
+[1]Geila       |11:09:17 | 25-10-2026| music "神様みたいに": 47% (121.20570000000002/254s)
+[1]Geila       |11:09:28 | 25-10-2026| music "神様みたいに": 51% (131.211/254s)
+[1]Geila       |11:09:40 | 25-10-2026| music "神様みたいに": 55% (141.36120000000003/254s)
+[1]Geila       |11:09:51 | 25-10-2026| music "神様みたいに": 59% (152.18820000000002/254s)
+[1]Geila       |11:10:02 | 25-10-2026| music "神様みたいに": 63% (162.324/254s)
+[1]Geila       |11:10:14 | 25-10-2026| music "神様みたいに": 67% (172.3725/254s)
+[1]Geila       |11:10:25 | 25-10-2026| music "神様みたいに": 71% (182.5533/254s)
+[1]Geila       |11:10:36 | 25-10-2026| music "神様みたいに": 75% (192.6171/254s)
+[1]Geila       |11:10:48 | 25-10-2026| music "神様みたいに": 79% (203.004/254s)
+[1]Geila       |11:11:01 | 25-10-2026| music "神様みたいに": 84% (213.78959999999998/254s)
+[1]Geila       |11:11:01 | 25-10-2026| music "神様みたいに": selesai 213.78959999999998s
+[1]Geila       |11:11:04 | 25-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Geila       |11:11:16 | 25-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Geila       |11:11:27 | 25-10-2026| music "せーので、飛ぼう！": 7% (19.3608/269s)
+[1]Geila       |11:11:39 | 25-10-2026| music "せーので、飛ぼう！": 10% (29.3895/269s)
+[1]Geila       |11:11:50 | 25-10-2026| music "せーので、飛ぼう！": 14% (39.9204/269s)
+[1]Geila       |11:12:02 | 25-10-2026| music "せーので、飛ぼう！": 18% (50.1741/269s)
+[1]Geila       |11:12:13 | 25-10-2026| music "せーので、飛ぼう！": 22% (60.432300000000005/269s)
+[1]Geila       |11:12:25 | 25-10-2026| music "せーので、飛ぼう！": 26% (70.7904/269s)
+[1]Geila       |11:12:37 | 25-10-2026| music "せーので、飛ぼう！": 30% (81.30510000000001/269s)
+[1]Geila       |11:12:48 | 25-10-2026| music "せーので、飛ぼう！": 34% (92.13210000000001/269s)
+[1]Geila       |11:12:59 | 25-10-2026| music "せーので、飛ぼう！": 37% (102.21390000000001/269s)
+[1]Geila       |11:13:11 | 25-10-2026| music "せーので、飛ぼう！": 41% (112.4586/269s)
+[1]Geila       |11:13:22 | 25-10-2026| music "せーので、飛ぼう！": 45% (122.6502/269s)
+[1]Geila       |11:13:33 | 25-10-2026| music "せーので、飛ぼう！": 49% (132.7023/269s)
+[1]Geila       |11:13:45 | 25-10-2026| music "せーので、飛ぼう！": 53% (142.74630000000002/269s)
+[1]Geila       |11:13:56 | 25-10-2026| music "せーので、飛ぼう！": 57% (153.52650000000003/269s)
+[1]Geila       |11:14:08 | 25-10-2026| music "せーので、飛ぼう！": 60% (163.70460000000003/269s)
+[1]Geila       |11:14:19 | 25-10-2026| music "せーので、飛ぼう！": 64% (173.97810000000004/269s)
+[1]Geila       |11:14:31 | 25-10-2026| music "せーので、飛ぼう！": 68% (184.34790000000004/269s)
+[1]Geila       |11:14:42 | 25-10-2026| music "せーので、飛ぼう！": 72% (194.56470000000004/269s)
+[1]Geila       |11:14:53 | 25-10-2026| music "せーので、飛ぼう！": 76% (204.59970000000004/269s)
+[1]Geila       |11:15:06 | 25-10-2026| music "せーので、飛ぼう！": 79% (215.09100000000004/269s)
+[1]Geila       |11:15:17 | 25-10-2026| music "せーので、飛ぼう！": 84% (226.30590000000004/269s)
+[1]Geila       |11:15:17 | 25-10-2026| music "せーので、飛ぼう！": selesai 226.30590000000004s
+[1]Geila       |11:15:21 | 25-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Geila       |11:15:32 | 25-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Geila       |11:15:43 | 25-10-2026| music "ON CHAIN NEXUS": 6% (19.003500000000003/276s)
+[1]Geila       |11:15:55 | 25-10-2026| music "ON CHAIN NEXUS": 10% (28.9827/276s)
+[1]Geila       |11:16:06 | 25-10-2026| music "ON CHAIN NEXUS": 14% (39.4812/276s)
+[1]Geila       |11:16:17 | 25-10-2026| music "ON CHAIN NEXUS": 17% (49.563900000000004/276s)
+[1]Geila       |11:16:28 | 25-10-2026| music "ON CHAIN NEXUS": 21% (59.633100000000006/276s)
+[1]Geila       |11:16:39 | 25-10-2026| music "ON CHAIN NEXUS": 25% (69.67530000000001/276s)
+[1]Geila       |11:16:51 | 25-10-2026| music "ON CHAIN NEXUS": 28% (79.69770000000001/276s)
+[1]Geila       |11:17:02 | 25-10-2026| music "ON CHAIN NEXUS": 32% (89.82630000000002/276s)
+[1]Geila       |11:17:13 | 25-10-2026| music "ON CHAIN NEXUS": 36% (99.86940000000001/276s)
+[1]Geila       |11:17:24 | 25-10-2026| music "ON CHAIN NEXUS": 39% (110.00070000000001/276s)
+[1]Geila       |11:17:36 | 25-10-2026| music "ON CHAIN NEXUS": 43% (120.19140000000002/276s)
+[1]Geila       |11:17:47 | 25-10-2026| music "ON CHAIN NEXUS": 47% (130.8033/276s)
+[1]Geila       |11:17:59 | 25-10-2026| music "ON CHAIN NEXUS": 51% (140.886/276s)
+[1]Geila       |11:18:10 | 25-10-2026| music "ON CHAIN NEXUS": 54% (150.8913/276s)
+[1]Geila       |11:18:21 | 25-10-2026| music "ON CHAIN NEXUS": 58% (160.91910000000001/276s)
+[1]Geila       |11:18:33 | 25-10-2026| music "ON CHAIN NEXUS": 62% (171.4428/276s)
+[1]Geila       |11:18:44 | 25-10-2026| music "ON CHAIN NEXUS": 65% (181.4562/276s)
+[1]Geila       |11:18:55 | 25-10-2026| music "ON CHAIN NEXUS": 69% (191.48489999999998/276s)
+[1]Geila       |11:19:06 | 25-10-2026| music "ON CHAIN NEXUS": 73% (201.52259999999998/276s)
+[1]Geila       |11:19:17 | 25-10-2026| music "ON CHAIN NEXUS": 76% (211.76279999999997/276s)
+[1]Geila       |11:19:29 | 25-10-2026| music "ON CHAIN NEXUS": 80% (221.87519999999998/276s)
+[1]Geila       |11:19:30 | 25-10-2026| music "ON CHAIN NEXUS": selesai 221.87519999999998s
+[1]Geila       |11:19:31 | 25-10-2026| music: kedua misi sudah tercapai, stop
+[1]Geila       |11:19:33 | 25-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Geila       |11:19:37 | 25-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Geila       |11:19:41 | 25-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+--> [1]Geila menjalankan: Claim Missions
+[1]Geila       |11:19:45 | 25-10-2026| mission music-listens-10: sudah diklaim
+[1]Geila       |11:19:45 | 25-10-2026| mission music-minutes-30: sudah diklaim
+[1]Geila       |11:19:45 | 25-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Geila menjalankan: Check Eligibility
+
+--- eligibility [1]Geila ---
+  @geilachandrika | score=10 rank=53731
+  tasks    [--------------------] 0/1
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [?]
+  watch    [####################] 22/17
+  music    [####################] 12/12
+  artikel  [####################] 30/30
+  mint: requirementsMet=false mintOpen=false discord=false
+
+--> [1]Geila menjalankan: Read Manga
+[1]Geila       |11:19:49 | 25-10-2026| manga: 13/13 chapter belum completed
+[1]Geila       |11:19:49 | 25-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Geila       |11:19:55 | 25-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Geila       |11:19:59 | 25-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Geila       |11:20:04 | 25-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Geila       |11:20:09 | 25-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Geila       |11:20:14 | 25-10-2026| manga ch1 (1): page 5/19 (26%) 18s
+[1]Geila       |11:20:18 | 25-10-2026| manga ch1 (1): page 6/19 (31%) 24s
+[1]Geila       |11:20:23 | 25-10-2026| manga ch1 (1): page 7/19 (36%) 28s
+[1]Geila       |11:20:28 | 25-10-2026| manga ch1 (1): page 8/19 (42%) 33s
+[1]Geila       |11:20:32 | 25-10-2026| manga ch1 (1): page 9/19 (47%) 37s
+[1]Geila       |11:20:37 | 25-10-2026| manga ch1 (1): page 10/19 (52%) 42s
+[1]Geila       |11:20:42 | 25-10-2026| manga ch1 (1): page 11/19 (57%) 47s
+[1]Geila       |11:20:46 | 25-10-2026| manga ch1 (1): page 12/19 (63%) 52s
+[1]Geila       |11:20:51 | 25-10-2026| manga ch1 (1): page 13/19 (68%) 56s
+[1]Geila       |11:20:56 | 25-10-2026| manga ch1 (1): page 14/19 (73%) 61s
+[1]Geila       |11:21:00 | 25-10-2026| manga ch1 (1): page 15/19 (78%) 66s
+[1]Geila       |11:21:05 | 25-10-2026| manga ch1 (1): page 16/19 (84%) 70s
+[1]Geila       |11:21:10 | 25-10-2026| manga ch1 (1): page 17/19 (89%) 75s
+[1]Geila       |11:21:15 | 25-10-2026| manga ch1 (1): page 18/19 (94%) 79s
+[1]Geila       |11:21:20 | 25-10-2026| manga ch1 (1): page 19/19 (99%) 84s
+[1]Geila       |11:21:25 | 25-10-2026| manga ch1 (1): COMPLETED
+[1]Geila       |11:21:28 | 25-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Geila       |11:21:34 | 25-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Geila       |11:21:38 | 25-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Geila       |11:21:43 | 25-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Geila       |11:21:48 | 25-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Geila       |11:21:53 | 25-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
+[1]Geila       |11:21:58 | 25-10-2026| manga ch2 (450001): page 6/18 (33%) 24s
+[1]Geila       |11:22:02 | 25-10-2026| manga ch2 (450001): page 7/18 (38%) 29s
+[1]Geila       |11:22:07 | 25-10-2026| manga ch2 (450001): page 8/18 (44%) 33s
+[1]Geila       |11:22:12 | 25-10-2026| manga ch2 (450001): page 9/18 (50%) 39s
+[1]Geila       |11:22:17 | 25-10-2026| manga ch2 (450001): page 10/18 (55%) 43s
+[1]Geila       |11:22:21 | 25-10-2026| manga ch2 (450001): page 11/18 (61%) 48s
+[1]Geila       |11:22:26 | 25-10-2026| manga ch2 (450001): page 12/18 (66%) 53s
+[1]Geila       |11:22:31 | 25-10-2026| manga ch2 (450001): page 13/18 (72%) 57s
+[1]Geila       |11:22:36 | 25-10-2026| manga ch2 (450001): page 14/18 (77%) 62s
+[1]Geila       |11:22:41 | 25-10-2026| manga ch2 (450001): page 15/18 (83%) 67s
+[1]Geila       |11:22:47 | 25-10-2026| manga ch2 (450001): page 16/18 (88%) 73s
+[1]Geila       |11:22:51 | 25-10-2026| manga ch2 (450001): page 17/18 (94%) 78s
+[1]Geila       |11:22:56 | 25-10-2026| manga ch2 (450001): page 18/18 (99%) 82s
+[1]Geila       |11:23:01 | 25-10-2026| manga ch2 (450001): COMPLETED
+[1]Geila       |11:23:04 | 25-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Geila       |11:23:09 | 25-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Geila       |11:23:14 | 25-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
+[1]Geila       |11:23:18 | 25-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Geila       |11:23:23 | 25-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
+[1]Geila       |11:23:28 | 25-10-2026| manga ch3 (2160001): page 5/17 (29%) 18s
+[1]Geila       |11:23:33 | 25-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
+[1]Geila       |11:23:37 | 25-10-2026| manga ch3 (2160001): page 7/17 (41%) 28s
+[1]Geila       |11:23:42 | 25-10-2026| manga ch3 (2160001): page 8/17 (47%) 33s
+[1]Geila       |11:23:47 | 25-10-2026| manga ch3 (2160001): page 9/17 (52%) 37s
+[1]Geila       |11:23:52 | 25-10-2026| manga ch3 (2160001): page 10/17 (58%) 42s
+[1]Geila       |11:23:56 | 25-10-2026| manga ch3 (2160001): page 11/17 (64%) 47s
+[1]Geila       |11:24:01 | 25-10-2026| manga ch3 (2160001): page 12/17 (70%) 52s
+[1]Geila       |11:24:06 | 25-10-2026| manga ch3 (2160001): page 13/17 (76%) 56s
+[1]Geila       |11:24:10 | 25-10-2026| manga ch3 (2160001): page 14/17 (82%) 61s
+[1]Geila       |11:24:15 | 25-10-2026| manga ch3 (2160001): page 15/17 (88%) 65s
+[1]Geila       |11:24:19 | 25-10-2026| manga ch3 (2160001): page 16/17 (94%) 70s
+[1]Geila       |11:24:24 | 25-10-2026| manga ch3 (2160001): page 17/17 (99%) 75s
+[1]Geila       |11:24:29 | 25-10-2026| manga ch3 (2160001): COMPLETED
+[1]Geila       |11:24:32 | 25-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Geila       |11:24:37 | 25-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Geila       |11:24:42 | 25-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Geila       |11:24:48 | 25-10-2026| manga ch4 (2400001): page 3/17 (17%) 10s
+[1]Geila       |11:24:52 | 25-10-2026| manga ch4 (2400001): page 4/17 (23%) 15s
+[1]Geila       |11:24:57 | 25-10-2026| manga ch4 (2400001): page 5/17 (29%) 20s
+[1]Geila       |11:25:02 | 25-10-2026| manga ch4 (2400001): page 6/17 (35%) 24s
+[1]Geila       |11:25:07 | 25-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
+[1]Geila       |11:25:12 | 25-10-2026| manga ch4 (2400001): page 8/17 (47%) 34s
+[1]Geila       |11:25:17 | 25-10-2026| manga ch4 (2400001): page 9/17 (52%) 39s
+[1]Geila       |11:25:22 | 25-10-2026| manga ch4 (2400001): page 10/17 (58%) 44s
+[1]Geila       |11:25:27 | 25-10-2026| manga ch4 (2400001): page 11/17 (64%) 49s
+[1]Geila       |11:25:32 | 25-10-2026| manga ch4 (2400001): page 12/17 (70%) 54s
+[1]Geila       |11:25:37 | 25-10-2026| manga ch4 (2400001): page 13/17 (76%) 59s
+[1]Geila       |11:25:41 | 25-10-2026| manga ch4 (2400001): page 14/17 (82%) 64s
+[1]Geila       |11:25:46 | 25-10-2026| manga ch4 (2400001): page 15/17 (88%) 68s
+[1]Geila       |11:25:51 | 25-10-2026| manga ch4 (2400001): page 16/17 (94%) 74s
+[1]Geila       |11:25:56 | 25-10-2026| manga ch4 (2400001): page 17/17 (99%) 78s
+[1]Geila       |11:26:00 | 25-10-2026| manga ch4 (2400001): COMPLETED
+[1]Geila       |11:26:03 | 25-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Geila       |11:26:09 | 25-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Geila       |11:26:14 | 25-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Geila       |11:26:19 | 25-10-2026| manga ch5 (2490001): page 3/18 (16%) 10s
+[1]Geila       |11:26:23 | 25-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
+[1]Geila       |11:26:28 | 25-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
+[1]Geila       |11:26:33 | 25-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
+[1]Geila       |11:26:37 | 25-10-2026| manga ch5 (2490001): page 7/18 (38%) 28s
+[1]Geila       |11:26:42 | 25-10-2026| manga ch5 (2490001): page 8/18 (44%) 33s
+[1]Geila       |11:26:47 | 25-10-2026| manga ch5 (2490001): page 9/18 (50%) 37s
+[1]Geila       |11:26:51 | 25-10-2026| manga ch5 (2490001): page 10/18 (55%) 42s
+[1]Geila       |11:26:56 | 25-10-2026| manga ch5 (2490001): page 11/18 (61%) 47s
+[1]Geila       |11:27:01 | 25-10-2026| manga ch5 (2490001): page 12/18 (66%) 52s
+[1]Geila       |11:27:06 | 25-10-2026| manga ch5 (2490001): page 13/18 (72%) 56s
+[1]Geila       |11:27:12 | 25-10-2026| manga ch5 (2490001): page 14/18 (77%) 62s
+[1]Geila       |11:27:17 | 25-10-2026| manga ch5 (2490001): page 15/18 (83%) 68s
+[1]Geila       |11:27:22 | 25-10-2026| manga ch5 (2490001): page 16/18 (88%) 73s
+[1]Geila       |11:27:27 | 25-10-2026| manga ch5 (2490001): page 17/18 (94%) 77s
+[1]Geila       |11:27:32 | 25-10-2026| manga ch5 (2490001): page 18/18 (99%) 82s
+[1]Geila       |11:27:39 | 25-10-2026| manga ch5 (2490001): COMPLETED
+[1]Geila       |11:27:42 | 25-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Geila       |11:27:48 | 25-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Geila       |11:27:52 | 25-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Geila       |11:27:57 | 25-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
+[1]Geila       |11:28:02 | 25-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Geila       |11:28:06 | 25-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
+[1]Geila       |11:28:11 | 25-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
+[1]Geila       |11:28:16 | 25-10-2026| manga ch6 (2610001): page 7/17 (41%) 28s
+[1]Geila       |11:28:20 | 25-10-2026| manga ch6 (2610001): page 8/17 (47%) 33s
+[1]Geila       |11:28:25 | 25-10-2026| manga ch6 (2610001): page 9/17 (52%) 37s
+[1]Geila       |11:28:30 | 25-10-2026| manga ch6 (2610001): page 10/17 (58%) 42s
+[1]Geila       |11:28:34 | 25-10-2026| manga ch6 (2610001): page 11/17 (64%) 46s
+[1]Geila       |11:28:39 | 25-10-2026| manga ch6 (2610001): page 12/17 (70%) 51s
+[1]Geila       |11:28:44 | 25-10-2026| manga ch6 (2610001): page 13/17 (76%) 56s
+[1]Geila       |11:28:48 | 25-10-2026| manga ch6 (2610001): page 14/17 (82%) 60s
+[1]Geila       |11:28:53 | 25-10-2026| manga ch6 (2610001): page 15/17 (88%) 65s
+[1]Geila       |11:28:58 | 25-10-2026| manga ch6 (2610001): page 16/17 (94%) 70s
+[1]Geila       |11:29:03 | 25-10-2026| manga ch6 (2610001): page 17/17 (99%) 75s
+[1]Geila       |11:29:08 | 25-10-2026| manga ch6 (2610001): COMPLETED
+[1]Geila       |11:29:11 | 25-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Geila       |11:29:17 | 25-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Geila       |11:29:22 | 25-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Geila       |11:29:26 | 25-10-2026| manga ch1 (180003): page 3/21 (14%) 10s
+[1]Geila       |11:29:31 | 25-10-2026| manga ch1 (180003): page 4/21 (19%) 15s
+[1]Geila       |11:29:36 | 25-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
+[1]Geila       |11:29:41 | 25-10-2026| manga ch1 (180003): page 6/21 (28%) 25s
+[1]Geila       |11:29:46 | 25-10-2026| manga ch1 (180003): page 7/21 (33%) 29s
+[1]Geila       |11:29:51 | 25-10-2026| manga ch1 (180003): page 8/21 (38%) 34s
+[1]Geila       |11:29:56 | 25-10-2026| manga ch1 (180003): page 9/21 (42%) 39s
+[1]Geila       |11:30:01 | 25-10-2026| manga ch1 (180003): page 10/21 (47%) 45s
+[1]Geila       |11:30:06 | 25-10-2026| manga ch1 (180003): page 11/21 (52%) 49s
+[1]Geila       |11:30:10 | 25-10-2026| manga ch1 (180003): page 12/21 (57%) 54s
+[1]Geila       |11:30:15 | 25-10-2026| manga ch1 (180003): page 13/21 (61%) 58s
+[1]Geila       |11:30:20 | 25-10-2026| manga ch1 (180003): page 14/21 (66%) 63s
+[1]Geila       |11:30:24 | 25-10-2026| manga ch1 (180003): page 15/21 (71%) 68s
+[1]Geila       |11:30:29 | 25-10-2026| manga ch1 (180003): page 16/21 (76%) 73s
+[1]Geila       |11:30:34 | 25-10-2026| manga ch1 (180003): page 17/21 (80%) 77s
+[1]Geila       |11:30:39 | 25-10-2026| manga ch1 (180003): page 18/21 (85%) 82s
+[1]Geila       |11:30:44 | 25-10-2026| manga ch1 (180003): page 19/21 (90%) 87s
+[1]Geila       |11:30:49 | 25-10-2026| manga ch1 (180003): page 20/21 (95%) 92s
+[1]Geila       |11:30:54 | 25-10-2026| manga ch1 (180003): page 21/21 (99%) 98s
+[1]Geila       |11:30:59 | 25-10-2026| manga ch1 (180003): COMPLETED
+[1]Geila       |11:31:02 | 25-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Geila       |11:31:08 | 25-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Geila       |11:31:13 | 25-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Geila       |11:31:17 | 25-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
+[1]Geila       |11:31:24 | 25-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
+[1]Geila       |11:31:29 | 25-10-2026| manga ch2 (990005): page 5/18 (27%) 21s
+[1]Geila       |11:31:34 | 25-10-2026| manga ch2 (990005): page 6/18 (33%) 26s
+[1]Geila       |11:31:38 | 25-10-2026| manga ch2 (990005): page 7/18 (38%) 30s
+[1]Geila       |11:31:43 | 25-10-2026| manga ch2 (990005): page 8/18 (44%) 35s
+[1]Geila       |11:31:48 | 25-10-2026| manga ch2 (990005): page 9/18 (50%) 40s
+[1]Geila       |11:31:53 | 25-10-2026| manga ch2 (990005): page 10/18 (55%) 45s
+[1]Geila       |11:31:57 | 25-10-2026| manga ch2 (990005): page 11/18 (61%) 49s
+[1]Geila       |11:32:02 | 25-10-2026| manga ch2 (990005): page 12/18 (66%) 54s
+[1]Geila       |11:32:06 | 25-10-2026| manga ch2 (990005): page 13/18 (72%) 58s
+[1]Geila       |11:32:11 | 25-10-2026| manga ch2 (990005): page 14/18 (77%) 63s
+[1]Geila       |11:32:16 | 25-10-2026| manga ch2 (990005): page 15/18 (83%) 68s
+[1]Geila       |11:32:22 | 25-10-2026| manga ch2 (990005): page 16/18 (88%) 72s
+[1]Geila       |11:32:26 | 25-10-2026| manga ch2 (990005): page 17/18 (94%) 78s
+[1]Geila       |11:32:31 | 25-10-2026| manga ch2 (990005): page 18/18 (99%) 83s
+[1]Geila       |11:32:36 | 25-10-2026| manga ch2 (990005): COMPLETED
+[1]Geila       |11:32:39 | 25-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Geila       |11:32:45 | 25-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Geila       |11:32:50 | 25-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
+[1]Geila       |11:32:54 | 25-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
+[1]Geila       |11:32:59 | 25-10-2026| manga ch3 (1980001): page 4/20 (20%) 14s
+[1]Geila       |11:33:03 | 25-10-2026| manga ch3 (1980001): page 5/20 (25%) 19s
+[1]Geila       |11:33:08 | 25-10-2026| manga ch3 (1980001): page 6/20 (30%) 23s
+[1]Geila       |11:33:13 | 25-10-2026| manga ch3 (1980001): page 7/20 (35%) 28s
+[1]Geila       |11:33:17 | 25-10-2026| manga ch3 (1980001): page 8/20 (40%) 32s
+[1]Geila       |11:33:22 | 25-10-2026| manga ch3 (1980001): page 9/20 (45%) 37s
+[1]Geila       |11:33:27 | 25-10-2026| manga ch3 (1980001): page 10/20 (50%) 42s
+[1]Geila       |11:33:32 | 25-10-2026| manga ch3 (1980001): page 11/20 (55%) 47s
+[1]Geila       |11:33:36 | 25-10-2026| manga ch3 (1980001): page 12/20 (60%) 51s
+[1]Geila       |11:33:41 | 25-10-2026| manga ch3 (1980001): page 13/20 (65%) 56s
+[1]Geila       |11:33:46 | 25-10-2026| manga ch3 (1980001): page 14/20 (70%) 61s
+[1]Geila       |11:33:51 | 25-10-2026| manga ch3 (1980001): page 15/20 (75%) 66s
+[1]Geila       |11:33:55 | 25-10-2026| manga ch3 (1980001): page 16/20 (80%) 70s
+[1]Geila       |11:34:00 | 25-10-2026| manga ch3 (1980001): page 17/20 (85%) 75s
+[1]Geila       |11:34:05 | 25-10-2026| manga ch3 (1980001): page 18/20 (90%) 79s
+[1]Geila       |11:34:11 | 25-10-2026| manga ch3 (1980001): page 19/20 (95%) 85s
+[1]Geila       |11:34:15 | 25-10-2026| manga ch3 (1980001): page 20/20 (99%) 90s
+[1]Geila       |11:34:20 | 25-10-2026| manga ch3 (1980001): COMPLETED
+[1]Geila       |11:34:23 | 25-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Geila       |11:34:29 | 25-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Geila       |11:34:34 | 25-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
+[1]Geila       |11:34:38 | 25-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
+[1]Geila       |11:34:43 | 25-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
+[1]Geila       |11:34:48 | 25-10-2026| manga ch1 (2100001): page 5/9 (55%) 18s
+[1]Geila       |11:34:52 | 25-10-2026| manga ch1 (2100001): page 6/9 (66%) 23s
+[1]Geila       |11:34:57 | 25-10-2026| manga ch1 (2100001): page 7/9 (77%) 28s
+[1]Geila       |11:35:02 | 25-10-2026| manga ch1 (2100001): page 8/9 (88%) 33s
+[1]Geila       |11:35:07 | 25-10-2026| manga ch1 (2100001): page 9/9 (99%) 37s
+[1]Geila       |11:35:11 | 25-10-2026| manga ch1 (2100001): COMPLETED
+[1]Geila       |11:35:14 | 25-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Geila       |11:35:20 | 25-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Geila       |11:35:25 | 25-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Geila       |11:35:30 | 25-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Geila       |11:35:34 | 25-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
+[1]Geila       |11:35:39 | 25-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
+[1]Geila       |11:35:43 | 25-10-2026| manga ch1 (2070001): page 6/10 (60%) 23s
+[1]Geila       |11:35:48 | 25-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
+[1]Geila       |11:35:53 | 25-10-2026| manga ch1 (2070001): page 8/10 (80%) 33s
+[1]Geila       |11:35:57 | 25-10-2026| manga ch1 (2070001): page 9/10 (90%) 37s
+[1]Geila       |11:36:02 | 25-10-2026| manga ch1 (2070001): page 10/10 (99%) 42s
+[1]Geila       |11:36:07 | 25-10-2026| manga ch1 (2070001): COMPLETED
+[1]Geila       |11:36:10 | 25-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Geila       |11:36:16 | 25-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Geila       |11:36:20 | 25-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Geila       |11:36:25 | 25-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Geila       |11:36:30 | 25-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Geila       |11:36:34 | 25-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
+[1]Geila       |11:36:39 | 25-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
+[1]Geila       |11:36:44 | 25-10-2026| manga ch2 (2520001): page 7/11 (63%) 28s
+[1]Geila       |11:36:49 | 25-10-2026| manga ch2 (2520001): page 8/11 (72%) 32s
+[1]Geila       |11:36:53 | 25-10-2026| manga ch2 (2520001): page 9/11 (81%) 37s
+[1]Geila       |11:36:58 | 25-10-2026| manga ch2 (2520001): page 10/11 (90%) 42s
+[1]Geila       |11:37:02 | 25-10-2026| manga ch2 (2520001): page 11/11 (99%) 46s
+[1]Geila       |11:37:07 | 25-10-2026| manga ch2 (2520001): COMPLETED
+[1]Geila       |11:37:10 | 25-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Geila       |11:37:16 | 25-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Geila       |11:37:21 | 25-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Geila       |11:37:25 | 25-10-2026| manga ch3 (2550001): page 3/11 (27%) 10s
+[1]Geila       |11:37:30 | 25-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
+[1]Geila       |11:37:35 | 25-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
+[1]Geila       |11:37:40 | 25-10-2026| manga ch3 (2550001): page 6/11 (54%) 24s
+[1]Geila       |11:37:44 | 25-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
+[1]Geila       |11:37:49 | 25-10-2026| manga ch3 (2550001): page 8/11 (72%) 33s
+[1]Geila       |11:37:53 | 25-10-2026| manga ch3 (2550001): page 9/11 (81%) 38s
+[1]Geila       |11:37:58 | 25-10-2026| manga ch3 (2550001): page 10/11 (90%) 42s
+[1]Geila       |11:38:03 | 25-10-2026| manga ch3 (2550001): page 11/11 (99%) 47s
+[1]Geila       |11:38:07 | 25-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Geila menjalankan: Get Gift
+[1]Geila       |11:38:11 | 25-10-2026| gift: 4/4 belum diterima
+[1]Geila       |11:38:12 | 25-10-2026| gift [1/4] Silver Oshii: OK
+[1]Geila       |11:38:15 | 25-10-2026| gift [2/4] Oshii’s space studio overlooking Earth: OK
+[1]Geila       |11:38:18 | 25-10-2026| gift [3/4] Osshi animated stickers: OK
+[1]Geila       |11:38:22 | 25-10-2026| gift [4/4] Oshii and friends above the sunrise clouds: OK
+--> [1]Geila menjalankan: Setup Profile
+[1]Geila       |11:38:24 | 25-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Geila       |11:38:25 | 25-10-2026| profile: OK bio="https://x.com/geilachandrika" fav=amato awarded=true +10pt
+--> [1]Geila menjalankan: Bind Wallet
+[1]Geila       |11:38:26 | 25-10-2026| wallet: derivasi dari privateKeySolana -> DCrP1r91sQtNFmExkdR9Akd3ioXtAz9jgogY1d2ZqXvy (cek cocok dengan wallet kamu!)
+[1]Geila       |11:38:27 | 25-10-2026| wallet: /api/wallet OK (solana)
+[1]Geila       |11:38:28 | 25-10-2026| wallet: /api/sol-address OK
 
 == RINGKASAN ==
-- Geila: daily=- | tasks OK 0/0
+- Geila: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 22/22 completed | musik 12 trek ~1992.2958s | artikel 30 dibaca | manga 13/13 completed | gift 4/4 diterima | profile +10pt | wallet bound | mint req=false open=false
