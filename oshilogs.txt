@@ -12,71 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Geila =====
-[1]Geila       |11:37:21 | 01-11-2026| login OK @geilachandrika | score=530 rank=21897
-[1]Geila       |11:37:21 | 01-11-2026| serverTime=2026-11-01T11:37:21.000Z local=2026-11-01T11:37:21.390Z
+[1]Geila       |13:00:26 | 02-11-2026| login OK @geilachandrika | score=640 rank=20536
+[1]Geila       |13:00:26 | 02-11-2026| serverTime=2026-11-02T13:00:26.000Z local=2026-11-02T13:00:26.709Z
 --> [1]Geila menjalankan: Claim Daily
-[1]Geila       |11:37:22 | 01-11-2026| daily: OK +10 poin score=540
---> [1]Geila menjalankan: Auto All Tasks (10 pending)
-[1]Geila       |11:37:24 | 01-11-2026| [1/10] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/geilachandrika/status/2116856637380090879
-[1]Geila       |11:37:24 | 01-11-2026| delay 10s...
-[1]Geila       |11:37:36 | 01-11-2026| [2/10] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/geilachandrika/status/2116856774845135504
-[1]Geila       |11:37:36 | 01-11-2026| delay 10s...
-[1]Geila       |11:37:52 | 01-11-2026| [3/10] 8ac1a107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/geilachandrika/status/2116856763739782259
-[1]Geila       |11:37:52 | 01-11-2026| delay 10s...
-[1]Geila       |11:38:05 | 01-11-2026| [4/10] 7354ea5e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/geilachandrika/status/2116856709990086460
-[1]Geila       |11:38:05 | 01-11-2026| delay 10s...
-[1]Geila       |11:38:17 | 01-11-2026| [5/10] 07e2b02d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/geilachandrika/status/2116856842071001884
-[1]Geila       |11:38:17 | 01-11-2026| delay 10s...
-[1]Geila       |11:38:29 | 01-11-2026| [6/10] 70541c21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/geilachandrika/status/2116856833517181858
-[1]Geila       |11:38:29 | 01-11-2026| delay 10s...
-[1]Geila       |11:38:40 | 01-11-2026| [7/10] 55940470 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/geilachandrika/status/2116856895648045563
-[1]Geila       |11:38:40 | 01-11-2026| delay 10s...
-[1]Geila       |11:38:55 | 01-11-2026| [8/10] 587d9c2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/geilachandrika/status/2116856923325099890
-[1]Geila       |11:38:55 | 01-11-2026| delay 10s...
-[1]Geila       |11:39:07 | 01-11-2026| [9/10] 28bea61c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/geilachandrika/status/2116856980206740210
-[1]Geila       |11:39:07 | 01-11-2026| delay 10s...
-[1]Geila       |11:39:19 | 01-11-2026| [10/10] 50117b4a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/geilachandrika/status/2116857126699579110
-[1]Geila       |11:39:19 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Geila       |11:39:20 | 01-11-2026| [1/1] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116857126484316 | proof=https://x.com/geilachandrika/status/2116857197611331548
+[1]Geila       |13:00:32 | 02-11-2026| daily ERROR: daily http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Geila menjalankan: Auto All Tasks (8 pending)
+[1]Geila       |13:00:33 | 02-11-2026| [1/8] 909af7fe (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/geilachandrika/status/2117239907872349612
+[1]Geila       |13:00:33 | 02-11-2026| delay 10s...
+[1]Geila       |13:00:44 | 02-11-2026| [2/8] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/geilachandrika/status/2117239976424035188
+[1]Geila       |13:00:44 | 02-11-2026| delay 10s...
+[1]Geila       |13:01:00 | 02-11-2026| [3/8] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/geilachandrika/status/2117240238605355761
+[1]Geila       |13:01:00 | 02-11-2026| delay 10s...
+[1]Geila       |13:01:17 | 02-11-2026| [4/8] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/geilachandrika/status/2117240176321171273
+[1]Geila       |13:01:17 | 02-11-2026| delay 10s...
+[1]Geila       |13:01:34 | 02-11-2026| [5/8] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/geilachandrika/status/2117240094121098974
+[1]Geila       |13:01:34 | 02-11-2026| delay 10s...
+[1]Geila       |13:01:47 | 02-11-2026| [6/8] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/geilachandrika/status/2117240388580981853
+[1]Geila       |13:01:47 | 02-11-2026| delay 10s...
+[1]Geila       |13:02:02 | 02-11-2026| [7/8] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/geilachandrika/status/2117240239708495272
+[1]Geila       |13:02:02 | 02-11-2026| delay 10s...
+[1]Geila       |13:02:14 | 02-11-2026| [8/8] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/geilachandrika/status/2117240267027353588
+[1]Geila       |13:02:14 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Geila       |13:02:16 | 02-11-2026| [1/1] 909af7fe (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/geilachandrika/status/2117240491192948430
 --> [1]Geila menjalankan: Watch Anime
-[1]Geila       |11:39:21 | 01-11-2026| watch: semua video sudah completed
+[1]Geila       |13:02:18 | 02-11-2026| watch: semua video sudah completed
 --> [1]Geila menjalankan: Read Article
-[1]Geila       |11:39:22 | 01-11-2026| news: 32/33 artikel selesai dibaca
-[1]Geila       |11:39:23 | 01-11-2026| mint eligibility: {"userId":"1888331059626119168","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Geila       |11:39:30 | 01-11-2026| news [1/1] oshi-labs-new-features-2026-11: OK completed=33
+[1]Geila       |13:02:20 | 02-11-2026| news: 33/34 artikel selesai dibaca
+[1]Geila       |13:02:21 | 02-11-2026| mint eligibility: {"userId":"1888331059626119168","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Geila       |13:02:28 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
 --> [1]Geila menjalankan: Quiz Anime
 --> [1]Geila menjalankan: Music Missions (realtime, bisa lama!)
-[1]Geila       |11:39:35 | 01-11-2026| music: kedua misi sudah tercapai, stop
-[1]Geila       |11:39:35 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Geila       |11:39:35 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Geila       |11:39:35 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Geila       |13:02:33 | 02-11-2026| music: kedua misi sudah tercapai, stop
+[1]Geila       |13:02:33 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Geila       |13:02:33 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Geila       |13:02:33 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Geila menjalankan: Claim Missions
-[1]Geila       |11:39:37 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Geila       |11:39:37 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Geila       |11:39:37 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Geila       |13:02:34 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Geila       |13:02:34 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Geila       |13:02:34 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Geila menjalankan: Check Eligibility
 
 --- eligibility [1]Geila ---
-  @geilachandrika | score=530 rank=21897
-  tasks    [###-----------------] 2/12
+  @geilachandrika | score=640 rank=20536
+  tasks    [#########-----------] 7/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [##################--] 12/13
-  artikel  [####################] 33/33
+  artikel  [####################] 34/34
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Geila menjalankan: Read Manga
-[1]Geila       |11:39:41 | 01-11-2026| manga: 0/13 chapter belum completed
+[1]Geila       |13:02:40 | 02-11-2026| manga: 0/13 chapter belum completed
 --> [1]Geila menjalankan: Get Gift
-[1]Geila       |11:39:42 | 01-11-2026| gift: 0/6 belum diterima
+[1]Geila       |13:02:42 | 02-11-2026| gift: 3/9 belum diterima
+[1]Geila       |13:02:43 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Geila       |13:02:46 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Geila       |13:02:50 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Geila menjalankan: Setup Profile
-[1]Geila       |11:39:42 | 01-11-2026| profile: bio="https://x.com/geilachandrika" fav=amato rewardAt=1792928305
-[1]Geila       |11:39:42 | 01-11-2026| profile: bonus sudah diklaim, skip
+[1]Geila       |13:02:52 | 02-11-2026| profile: bio="https://x.com/geilachandrika" fav=amato rewardAt=1792928305
+[1]Geila       |13:02:52 | 02-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Geila menjalankan: Bind Wallet
-[1]Geila       |11:39:43 | 01-11-2026| wallet: sudah terikat DCrP1r91sQ... (solana)
+[1]Geila       |13:02:53 | 02-11-2026| wallet: sudah terikat DCrP1r91sQ... (solana)
 
 == RINGKASAN ==
-- Geila: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
+- Geila: daily=- | tasks OK 7/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
